@@ -5,4 +5,4 @@ Abstract: The volume of machine-readable text communication about politics has i
 
 (1) selectionScript.R - A script for selecting video clips to extract from CPAC Question Periods.
 (2) extractedSentencesYouTubeLinks.csv - The list of videos extracted from Step (1), along with date, speaker, party, language of speech, Hansard record (English), timeStamp (MM:SS), sentence length (SS:MS), and video link (youTube). 
-(3) qualtricsInstruct.pdf - An image of the Qualtrics coding instrument 
+(3) qualtricsInstrument.pdf - An image of the Qualtrics coding instrument 
