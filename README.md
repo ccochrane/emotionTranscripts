@@ -8,3 +8,7 @@ Abstract: The volume of machine-readable text communication about politics has i
 (2) extractedSentencesYouTubeLinks.csv - The list of videos extracted from Step (1), along with date, speaker, party, language of speech, Hansard record (English), timeStamp (MM:SS), sentence length (SS:MS), and video link (youTube). 
 
 (3) videoCodingInstrument.pdf - An image of the Qualtrics coding instrument for the video clips.
+
+(4) emotionInHansardQualtrics.csv - The raw output from the Qualtrics Survey Instrument (with an added Header)
+
+
