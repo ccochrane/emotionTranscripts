@@ -9,8 +9,8 @@ Abstract: The volume of machine-readable text communication about politics has i
 
 (3) videoCodingInstrument.pdf - An image of the Qualtrics coding instrument for the video clips.
 
-(4) emotionInHansard_December+20%2C+2018_14.52.csv - The raw output from the Qualtrics Survey Instrument, used by the Video Coders.
+(4) emotionInHansard_December+20%2C+2018_14.52.csv - The raw output from the Qualtrics Survey Instrument used by the Video Coders.
 
+(5) qualtricsDataExtract.py - A script for structuring the raw Qualtrics output (from 4).  
 
-
-
+(6) qualtricsStructured.csv - The structured Qualtrics data (from 5).
