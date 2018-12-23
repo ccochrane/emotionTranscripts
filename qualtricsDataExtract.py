@@ -62,7 +62,7 @@ surpriseList = []
 #-----------------------------------------------------------------------------
 
 
-for i in range(4,len(qualtricsRaw)):
+for i in range(1,len(qualtricsRaw)):
     if qualtricsRaw['distributionChannel'][i] != "preview": #drop previews
         coder = qualtricsRaw['QID78_TEXT'][i]
         if coder == "js":
@@ -873,8 +873,8 @@ for i in range(4,len(qualtricsRaw)):
         # BlocA1B1
         #-----------------
         '''count n of bars, which separate variables'''
-        if not str(qualtricsRaw['BL_0uhk6r0UWlNJ3tb_DO'][i]):
-            numBars = str(qualtricsRaw['BL_0uhk6r0UWlNJ3tb_DO'][i]).count('|') #count seperators (|)       
+        if pd.notnull(qualtricsRaw['BL_0uhk6r0UWlNJ3tb_DO'][i]):
+            numBars = qualtricsRaw['BL_0uhk6r0UWlNJ3tb_DO'][i].count('|') #count seperators (|)       
             '''break strings into components, which are separated by bars'''
             blocA1B1_DO = findStringParts(qualtricsRaw['BL_0uhk6r0UWlNJ3tb_DO'][i], '|', numBars) 
             blocA1B1_title_vid1 = blocA1B1_DO[0] # The first video title
@@ -1008,8 +1008,8 @@ for i in range(4,len(qualtricsRaw)):
         # BlocA1B2
         #-----------------
         '''count n of bars, which separate variables'''
-        if not str(qualtricsRaw['BL_eCHbbimkb0dc5i5_DO'][i]):
-            numBars = str(qualtricsRaw['BL_eCHbbimkb0dc5i5_DO'][i]).count('|') #count seperators (|)
+        if pd.notnull(qualtricsRaw['BL_eCHbbimkb0dc5i5_DO'][i]):
+            numBars = qualtricsRaw['BL_eCHbbimkb0dc5i5_DO'][i].count('|') #count seperators (|)
             '''count n of bars, which separate variables'''
             numBars = qualtricsRaw['BL_eCHbbimkb0dc5i5_DO'][i].count('|') #count seperators (|)       
             '''break strings into components, which are separated by bars'''
@@ -1144,8 +1144,8 @@ for i in range(4,len(qualtricsRaw)):
         # BlocA1F1
         #-----------------
         '''count n of bars, which separate variables'''
-        if not str(qualtricsRaw['BL_0kXaBSNouGm7OXH_DO'][i]):
-            numBars = str(qualtricsRaw['BL_0kXaBSNouGm7OXH_DO'][i]).count('|') #count seperators (|)
+        if pd.notnull(qualtricsRaw['BL_0kXaBSNouGm7OXH_DO'][i]):
+            numBars = qualtricsRaw['BL_0kXaBSNouGm7OXH_DO'][i].count('|') #count seperators (|)
             '''count n of bars, which separate variables'''
             numBars = qualtricsRaw['BL_0kXaBSNouGm7OXH_DO'][i].count('|') #count seperators (|)       
             '''break strings into components, which are separated by bars'''
@@ -1280,10 +1280,8 @@ for i in range(4,len(qualtricsRaw)):
         # BlocA1F2
         #-----------------
         '''count n of bars, which separate variables'''
-        if not str(qualtricsRaw['BL_0kTwd0XKn0tOQ7z_DO'][i]):
-            numBars = str(qualtricsRaw['BL_0kTwd0XKn0tOQ7z_DO'][i]).count('|') #count seperators (|)
-            '''count n of bars, which separate variables'''
-            numBars = qualtricsRaw['BL_0kTwd0XKn0tOQ7z_DO'][i].count('|') #count seperators (|)       
+        if pd.notnull(qualtricsRaw['BL_0kTwd0XKn0tOQ7z_DO'][i]):
+            numBars = qualtricsRaw['BL_0kTwd0XKn0tOQ7z_DO'][i].count('|') #count seperators (|)     
             '''break strings into components, which are separated by bars'''
             blocA1F2_DO = findStringParts(qualtricsRaw['BL_0kTwd0XKn0tOQ7z_DO'][i], '|', numBars) 
             blocA1F2_title_vid1 = blocA1F2_DO[0] # The first video title
@@ -1409,6 +1407,7 @@ for i in range(4,len(qualtricsRaw)):
             disgustList.append(blocA1F2_disgust_vid2)
             fearList.append(blocA1F2_fear_vid2)
             happinessList.append(blocA1F2_happiness_vid2)
+            sadnessList.append(blocA1F2_sadness_vid2)
             surpriseList.append(blocA1F2_surprise_vid2)
 
 
@@ -1417,9 +1416,7 @@ for i in range(4,len(qualtricsRaw)):
         # BlocA2F1
         #-----------------
         '''count n of bars, which separate variables'''
-        if not str(qualtricsRaw['BL_8expPTVNXuTVOUB_DO'][i]):
-            numBars = str(qualtricsRaw['BL_8expPTVNXuTVOUB_DO'][i]).count('|') #count seperators (|)
-            '''count n of bars, which separate variables'''
+        if pd.notnull(qualtricsRaw['BL_8expPTVNXuTVOUB_DO'][i]):
             numBars = qualtricsRaw['BL_8expPTVNXuTVOUB_DO'][i].count('|') #count seperators (|)       
             '''break strings into components, which are separated by bars'''
             blocA2F1_DO = findStringParts(qualtricsRaw['BL_8expPTVNXuTVOUB_DO'][i], '|', numBars) 
@@ -1554,9 +1551,7 @@ for i in range(4,len(qualtricsRaw)):
         # BlocA2B1
         #-----------------
         '''count n of bars, which separate variables'''
-        if not str(qualtricsRaw['BL_6tBHFflywlCq6nb_DO'][i]):
-            numBars = str(qualtricsRaw['BL_6tBHFflywlCq6nb_DO'][i]).count('|') #count seperators (|)
-            '''count n of bars, which separate variables'''
+        if pd.notnull(qualtricsRaw['BL_6tBHFflywlCq6nb_DO'][i]):
             '''count n of bars, which separate variables'''
             numBars = qualtricsRaw['BL_6tBHFflywlCq6nb_DO'][i].count('|') #count seperators (|)       
             '''break strings into components, which are separated by bars'''
@@ -1691,11 +1686,9 @@ for i in range(4,len(qualtricsRaw)):
         # BlocA2B2
         #-----------------
         '''count n of bars, which separate variables'''
-        if not str(qualtricsRaw['BL_42F6yra3ogqCtpP_DO'][i]):
-            numBars = str(qualtricsRaw['BL_42F6yra3ogqCtpP_DO'][i]).count('|') #count seperators (|)
+        if pd.notnull(qualtricsRaw['BL_42F6yra3ogqCtpP_DO'][i]):
             '''count n of bars, which separate variables'''
-            numBars = qualtricsRaw['BL_42F6yra3ogqCtpP_DO'][i].count('|') #count seperators (|)       
-            '''break strings into components, which are separated by bars'''
+            numBars = qualtricsRaw['BL_42F6yra3ogqCtpP_DO'][i].count('|') #count seperators (|)
             blocA2B2_DO = findStringParts(qualtricsRaw['BL_42F6yra3ogqCtpP_DO'][i], '|', numBars) 
             blocA2B2_title_vid1 = blocA2B2_DO[0] # The first video title
             blocA2B2_title_vid2 = blocA2B2_DO[1] # The second video title
@@ -1799,6 +1792,7 @@ for i in range(4,len(qualtricsRaw)):
                 else:
                     blocA2B2_surprise_vid2 = 0
             
+            
             '''Add Bloc A2B2 data to running Tally'''
             '''For Video 1'''
             coderList.append(coder)
@@ -1837,7 +1831,7 @@ print(len(fearList))
 print(len(happinessList))
 print(len(sadnessList))
 print(len(surpriseList))
-print(surpriseList)
+#print(surpriseList)
 
 '''Combine Running Tally Lists in Dictionary'''
 qualtricsStructured = {'Coder': coderList,
@@ -1862,7 +1856,11 @@ and only one coder did, as if he was repeatedly interrupted in the middle
 of coding a single video.  This could have been a connection issue.'''
 
 qualtricsStructured = qualtricsStructured.dropna()
-
+qualtricsStructured = qualtricsStructured[['Video', 'Coder', 'Sentiment', 
+                                           'Activation', 'Anger', 'Disgust',
+                                           'Fear', 'Surprise', 'Sadness',
+                                           'Happiness']]
+qualtricsStructured.index.name = 'Order'
 
 '''Export to CSV'''
 qualtricsStructured.to_csv('qualtricsStructured.csv', encoding='utf-8')
