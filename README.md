@@ -17,6 +17,6 @@ Abstract: The volume of machine-readable text communication about politics has i
 
 (7) createVideoCoderRecord.py - A script for extracting (from Step 6) the first two coding decisions of each video coder for each video.
 
-(8) videoCoderAverages.csv - The record of video coding decisions, which captures, for each video coder and video, the first and second score that the coder assigned for activation and sentiment, as well as the averages of their first two scores for both dimensions. Rows are videos.  Columns are: v1Act1, v1Act2, v1ActAvg, v1Sent1, v1Sent2, v1SentAvg, v2Act1 ... v3SentAct. 
+(8) videoCoderAverages.csv - The record of video coding decisions (from Step 7), which captures, for each video coder and video, the first and second score that the coder assigned for activation and sentiment, as well as the averages of their first two scores for both dimensions. Rows are videos.  Columns are: v1Act1, v1Act2, v1ActAvg, v1Sent1, v1Sent2, v1SentAvg, v2Act1 ... v3SentAct. 
 
 
