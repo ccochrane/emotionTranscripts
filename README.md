@@ -5,12 +5,18 @@ Abstract: The volume of machine-readable text communication about politics has i
 
 (1) selectionScript.R - A script for selecting video clips to extract from CPAC Question Periods.
 
-(2) extractedSentencesYouTubeLinks.csv - The list of videos extracted from Step 1, along with date, speaker, party, language of speech, Hansard record (English), timeStamp (MM:SS), sentence length (SS:MS), and video link (youTube). 
+(2) extractedSentencesYouTubeLinks.csv -The list of videos extracted from Step 1, along with date, speaker, party, language of speech, Hansard record (English), timeStamp (MM:SS), sentence length (SS:MS), and video link (youTube). 
 
 (3) videoCodingInstrument.pdf - An image of the Qualtrics coding instrument for the video clips.
 
-(4) emotionInHansard_December+20%2C+2018_14.52.csv - The raw output from the Qualtrics Survey Instrument used by the Video Coders.
+(4) emotionInHansard_December+20%2C+2018_14.52.csv - The raw output from the Qualtrics survey instrument that the Video Coders used to code the videos.
 
 (5) qualtricsDataExtract.py - A script for structuring the raw Qualtrics output (from Step 4).  
 
 (6) qualtricsStructured.csv - The structured Qualtrics data (from Step 5).
+
+(7) createVideoCoderRecord.py - A script for extracting (from Step 6) the first two coding decisions of each video coder for each video.
+
+(8) videoCoderAverages.csv - The record of video coding decisions, which captures, for each video coder and video, the first and second score that the coder assigned for activation and sentiment, as well as the averages of their first two scores for both dimensions. Rows are videos.  Columns are: v1Act1, v1Act2, v1ActAvg, v1Sent1, v1Sent2, v1SentAvg, v2Act1 ... v3SentAct. 
+
+
