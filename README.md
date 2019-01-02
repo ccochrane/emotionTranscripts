@@ -28,4 +28,8 @@ Abstract: The volume of machine-readable text communication about politics has i
 
 (11) textCoderAverages.csv - The record of text coding decisions (from Step 10), which captures, for each text coder and video, the first and second score that the coder assigned for activation and sentiment, as well as the averages of their first two scores for both dimensions. Rows are videos.  Columns are: t1Act1, t1Act2, t1ActAvg, t1Sent1, t1Sent2, t1SentAvg, t2Act1 ... t3SentAct. 
 
+(12) mergeTextVideoCoding.py - A script for mergint the video coding data (from Step 8) and the text coding data (from Step 11).
+
+(13) fullCodingData.cscv - The merged record of video and text coding decisions (from Step 12).
+
 
