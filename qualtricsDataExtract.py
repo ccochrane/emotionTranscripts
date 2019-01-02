@@ -21,12 +21,14 @@ that Qualtrics outputs.
 #-----------------------------------------------------------------------------
 
 import pandas as pd
+import re 
 
 #-----------------------------------------------------------------------------
 # Import Raw Qualtrics Data from Github
 #-----------------------------------------------------------------------------
 
-gitHub = 'https://raw.githubusercontent.com/ccochrane/emotionParliament/master/emotionInHansard_December%2B20%252C%2B2018_14.52.csv'
+#gitHub = 'https://raw.githubusercontent.com/ccochrane/emotionParliament/master/emotionInHansard_December%2B20%252C%2B2018_14.52.csv'
+gitHub = 'file:///Users/chriscochrane/Dropbox/Current Working Folder/emotionInHansard_December+20%252C+2018_14.52.csv'
 qualtricsRaw = pd.read_csv(gitHub)
 
 #-----------------------------------------------------------------------------
@@ -1833,6 +1835,10 @@ print(len(sadnessList))
 print(len(surpriseList))
 #print(surpriseList)
 
+'''Fix Video Labelling Error'''
+videoList = [video.replace('2017 12 1 ','2017 12 01 ' ) for video in videoList]
+
+
 '''Combine Running Tally Lists in Dictionary'''
 qualtricsStructured = {'Coder': coderList,
                        'Video': videoList,
@@ -1844,6 +1850,7 @@ qualtricsStructured = {'Coder': coderList,
                        'Happiness': happinessList,
                        'Sadness': sadnessList,
                        'Surprise': surpriseList}
+
 
 '''Convert to Pandas DF'''
 qualtricsStructured = pd.DataFrame(qualtricsStructured)
