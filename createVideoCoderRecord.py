@@ -114,6 +114,7 @@ def findVideoAverages(firstTwo):
     PORBAct2 = dict((el, np.NaN) for el in videoAverages["Video"])
     JSAct2 = dict((el, np.NaN) for el in videoAverages["Video"])
     MSAct2 = dict((el, np.NaN) for el in videoAverages["Video"])
+    
 
     '''loop for populating dictionaries.  Re-creates a second video score,
     if a video is coded more than once, from the average score (calculated 
@@ -179,6 +180,9 @@ def findVideoAverages(firstTwo):
                                   'v2Act2': pd.Series(MSAct2),
                                   })
   
+    videoAverages['Video'] = videoAverages.index
+    print(videoAverages)
+    
     return videoAverages
 
 
