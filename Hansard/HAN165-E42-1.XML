@@ -1,0 +1,1475 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="9481200">
+  <StartPageNumber>10479</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">House of Commons Debates</ExtractedItem>
+    <ExtractedItem Name="Volume">VOLUME 148</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 165</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">42nd PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Wednesday, April 12, 2017</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Speaker: The Honourable Geoff Regan</ExtractedItem>
+    <ExtractedItem Name="Institution">HOUSE OF COMMONS</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="TOCNote">(Table of Contents appears at back of this issue.)</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">COMMONS DEBATES</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">April 12, 2017</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">DEBATES</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">Edited Hansard * Table of Contents * Number 165 (Official Version)</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">Official Report * Table of Contents * Number 165 (Official Version)</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">Compte rendu officiel * Table des matières * Numéro 165 (Version officielle)</ExtractedItem>
+    <ExtractedItem Name="MetaVolumeNumber">148</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">165</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">12</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">04</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2017</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2017/04/12 15:05:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Débats de la Chambre des communes</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">House of Commons Debates</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">42</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <Intro>
+      <ParaText id="4835472">The House met at 3 p.m.</ParaText>
+      <Prayer>Prayer</Prayer>
+    </Intro>
+    <OrderOfBusiness id="9482776" Rubric="Other">
+      <CatchLine>Statements by Members</CatchLine>
+      <SubjectOfBusiness>
+        <Timestamp Hr="15" Mn="05">(1505)</Timestamp>
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9481203">
+            <PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835574"> It being Wednesday, we will now have the singing of the national anthem led by the hon. member for <Affiliation DbId="214504" Type="2">Sarnia—Lambton</Affiliation>.</ParaText>
+              <ParaText id="4835575">[<I>Members sang the national anthem</I>]</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+    <OrderOfBusiness id="9481208" Rubric="StatementsByMembers">
+      <OrderOfBusinessTitle>STATEMENTS BY MEMBERS</OrderOfBusinessTitle>
+      <CatchLine>Statements by Members</CatchLine>
+      <SubjectOfBusiness id="9481209">
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Malala Yousafzai</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Barsalou-Duval" id="9481210">
+            <PersonSpeaking>
+              <Affiliation DbId="214562" Type="2">Mr. Xavier Barsalou-Duval (Pierre-Boucher—Les Patriotes—Verchères, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835576">Mr. Speaker, these are difficult times for humanity. World peace is more of a dream than a possibility or a reality. Extremism keeps us at arm's length and is tearing us apart. Around the world, there is too much fear, hate, and violence. When humanity faces difficult times, a glimmer of hope always appears.</ParaText>
+              <ParaText id="4835577">Malala is a glimmer of hope, and she invites us to be open with one another and to work towards the equality of men and women. She invites us to abandon our prejudices, to get to know one another, and to love one another more. We are pleased to have Malala Yousafzai with us. We admire her. Taking a stand, fighting for justice and for the fundamental right to education, overcoming adversity, and wanting to build a better world is truly inspiring.</ParaText>
+              <ParaText id="4835578">I thank Malala for being that extraordinary ray of sunshine that the world truly needs. Thank you for being here with us.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481212">
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Armenia</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. May (Cambridge)" id="9481213">
+            <PersonSpeaking>
+              <Affiliation DbId="214372" Type="2">Mr. Bryan May (Cambridge, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835579">Mr. Speaker, last year I participated in the global forum for the prevention of genocide in Armenia and represented Canada at the Armenian genocide remembrance ceremonies. On April 24, we honour the memories of more than one million Armenians who lost their lives. </ParaText>
+              <ParaText id="4835580">Preventing atrocities is contingent on recognizing, remembering, and understanding genocides. All nations and peoples must recognize genocide as not a political issue but a historic one. The victims' memories are desecrated today by the wilful ignorance of those who choose to deny these events. Reflecting on genocides, including Armenia, Ukraine, Rwanda, Bosnia, Yazidis, and the Holocaust, we must commit ourselves to the obligations that our humanity demands, ensuring genocide is ended.</ParaText>
+              <ParaText id="4835581">I stand with the Armenian community in Cambridge and across Canada as we proclaim “never again.”</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481216">
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Charity Events</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Deltell" id="9481217">
+            <PersonSpeaking>
+              <Affiliation DbId="213959" Type="2">Mr. Gérard Deltell (Louis-Saint-Laurent, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835582">Mr. Speaker, before talking about my riding, I would like to personally commend you for the comments you made to Malala, particularly the things you said about her parents. Your speech was excellent. I thank you and congratulate you for that.</ParaText>
+              <ParaText id="4835583">Like all members of the House, I was in my riding last weekend. I had the pleasure of meeting hundreds of people at charity events. Every weekend I meet committed people, proud Canadians, who are always ready to help others. These include members of the Club de plongeon de Québec, where hundreds of young people and parents care about the future of our youth; the Ancienne-Lorette and Val-Bélair Knights of Columbus, which hold fundraisers to help those in need; the Ancienne-Lorette scouts, who are getting ready for summer camp by hosting their annual spaghetti dinner; the Neufchâtel optimist club; and even family friends and the Christian community of Saint-Ambroise, whom I met at the sugar shack. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="9481218">
+            <PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835584">I thank the hon. member. That is a good way to get the floor for a few more seconds.</ParaText>
+              <ParaText id="4835585">The hon. member for <Affiliation DbId="214236" Type="2">Parkdale—High Park</Affiliation>.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481220">
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>The Environment</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Virani" id="9481221">
+            <PersonSpeaking>
+              <Affiliation DbId="214236" Type="2">Mr. Arif Virani (Parkdale—High Park, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835586">Mr. Speaker, April 22 is Earth Day. In recognition, I want to acknowledge a tremendous organization in my riding of Parkdale—High Park: Green 13. </ParaText>
+              <ParaText id="4835587">Green 13 is a collection of residents in my community who work hard every day to raise awareness about the most pressing issue of our generation: climate change. These amazing volunteers dedicate their time to advocating for environmental sustainability and promoting little ways we can all change our behaviour to better protect our communities and our planet. Green 13 is so successful that they have actually inspired a sequel, Green 14, in the other half of my riding. I now have not one but two grassroots groups working hard to protect the environment. </ParaText>
+              <ParaText id="4835588">I hope that list keeps growing, but I also know that the fight for a greener future will not be won unless we all play our part. This Earth Day, and every day, I urge all of us to take up this vital fight against climate change.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481233">
+        <SubjectOfBusinessTitle>Pensions and Benefits</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Duvall" id="9481234">
+            <PersonSpeaking>
+              <Affiliation DbId="214091" Type="2">Mr. Scott Duvall (Hamilton Mountain, NDP)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835589">Mr. Speaker, the government and the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> really need to decide whose side they are on. </ParaText>
+              <ParaText id="4835590">The Canadian government recently gave Bombardier millions of dollars in corporate welfare. In return, the company laid off workers while giving multimillion dollar bonuses to its executives. The rich get richer, the workers suffer, and the government simply shrugs as if everything is fine. </ParaText>
+              <ParaText id="4835591">When the court allowed U.S. Steel to walk away from its pension obligations, the government and the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> simply shrugged and said that they are engaged. When U.S. Steel was given permission to cut off funding for pensioners' health care benefits, while at the same time sitting on millions of dollars in cash and giving its executives lavish bonuses, the government and the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> simply shrugged and said that they are engaged.</ParaText>
+              <ParaText id="4835592">Well, the workers and pensioners in Hamilton want to know this: on whose behalf are they engaged? It certainly is not the pensioners or the workers.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481245">
+        <Timestamp Hr="15" Mn="10">(1510)</Timestamp>
+        <SubjectOfBusinessTitle>Vaisakhi</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Khera" id="9481246">
+            <PersonSpeaking>
+              <Affiliation DbId="214011" Type="2">Ms. Kamal Khera (Brampton West, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835593">Mr. Speaker, <I>Waheguru Ji Ka Khalsa, Waheguru Ji Ki Fateh</I>. </ParaText>
+              <ParaText id="4835594"> I rise today to wish all celebrating in Brampton West, across Canada, and around the world a very happy Vaisakhi.</ParaText>
+              <ParaText id="4835595"> Vaisakhi marks the anniversary of the creation of Khalsa by Guru Gobind Singh Ji, and the founding of the fundamental principles of equality, unity, selfless service, and social justice, values that we are all proud to share as Canadians.</ParaText>
+              <ParaText id="4835596">Sikhs arrived in Canada over 100 years ago, and these principles have guided us in building our country. From coast to coast to coast, Sikh Canadians have helped build communities, have fought for equality, have served in our military, and have made significant contributions to our economic and social fabric.</ParaText>
+              <ParaText id="4835597">Today these guiding principles are conserved by the efforts of the many gurdwaras all across Canada. I would like to thank the Gurdwara Sikh Sangat in my riding of Brampton West in promoting and upholding these values of Sikhism and making me proud not only as a Sikh but also as a Canadian.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481248">
+        <SubjectOfBusinessTitle>Cancer</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Webber" id="9481249">
+            <PersonSpeaking>
+              <Affiliation DbId="214390" Type="2">Mr. Len Webber (Calgary Confederation, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835598">Mr. Speaker, every three minutes cancer picks a fight with another Canadian. That is over 200,000 new cases of cancer diagnosed every year in this country, and those numbers are projected to increase by nearly 40% by 2030.</ParaText>
+              <ParaText id="4835599">Even with these disappointing numbers, the overall cancer survival rate has increased from 35% back in the 1950s to over 60% today, thanks in part to research funded by daffodil sales. Yes, April is Daffodil Month, and making a donation, buying a daffodil pin, or buying the actual flower means that we are supporting a long history of helping people with cancer and funding life-saving research, education, and support services.</ParaText>
+              <ParaText id="4835600"> Please support the annual Canadian Cancer Society's April daffodil campaign.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481252">
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>2600 Rochebelle Cadet Corps</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lightbound" id="9481253">
+            <PersonSpeaking>
+              <Affiliation DbId="214021" Type="2">Mr. Joël Lightbound (Louis-Hébert, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835601">Mr. Speaker, Canadian Cadet Organizations is the largest youth program in Canada. Speaking purely objectively, the 2600 Rochebelle Cadet Corps is without a doubt one of the most dynamic in the country. Their motto, “challenges, discipline, unity”, summarizes the values of these young people who gather to forge bonds and develop their leadership skills and their civic engagement while challenging themselves physically.</ParaText>
+              <ParaText id="4835602">This year, as we celebrate Canada's 150th anniversary, they are celebrating their 60th. I had the honour of marking the occasion with them on April 1. I would like to wish them a happy 60th anniversary, and I also want to thank their captain, Patrick Bélanger, for his dedication, as well as the parents, officers, and volunteers, such as André Picard, people who work every day to help mould these young cadets into model citizens who make a positive contribution to our society.</ParaText>
+              <ParaText id="4835603">Cadets, we are proud of you. Sixty years is worth celebrating. I wish you another 60 years and more.</ParaText>
+              <ParaText id="4835604">Happy 60th anniversary to the Rochebelle cadets.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481255">
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Cancer </SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Sahota" id="9481256">
+            <PersonSpeaking>
+              <Affiliation DbId="214009" Type="2">Ms. Ruby Sahota (Brampton North, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835605">Mr. Speaker, the month of April is recognized as cancer awareness month.</ParaText>
+              <ParaText id="4835606"> It is also the month in which Vaisakhi, the birth of the Khalsa Panth, is celebrated. </ParaText>
+              <ParaText id="4835607">Sikh philosophy and teachings stress the importance of noble deeds, selfless giving, and sacrifice. Saving a human life is one of the greatest things one can do according to Sikhism. </ParaText>
+              <ParaText id="4835608">Many in my riding of Brampton North and across Canada have raised hundreds of thousands of dollars for cancer research, organized runs, and volunteered their time with organizations like the Guru Gobind Singh Children's Foundation and the Sikh Motorcycle Club.</ParaText>
+              <ParaText id="4835609"> In honour of Vaisakhi and cancer awareness month, I encourage all Canadians to continue to fight for a cure through giving back and volunteering their time.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481258">
+        <SubjectOfBusinessTitle>International Day of Pink</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Vecchio" id="9481259">
+            <PersonSpeaking>
+              <Affiliation DbId="214234" Type="2">Mrs. Karen Vecchio (Elgin—Middlesex—London, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835610">Mr. Speaker, April 12 is known as the Day of Pink. Today is the international day against bullying, discrimination, homophobia, Transphobia, and Transmisogyny. </ParaText>
+              <ParaText id="4835611"> Today, communities across the country and across the world unite in celebrating diversity and raising awareness to stop these types of discrimination and all forms of bullying. Discrimination comes in many forms and creates barriers to full participation in our society through bullying, harassment, hate, and violence. In some cases individuals can be rejected by their families, kicked out of their homes, and pushed out of school as a result of who they are. No one should be subjected to such discrimination.</ParaText>
+              <ParaText id="4835612"> Our nation was built on common values such as tolerance, openness, and diversity, and we must continue to be a model of an inclusive society. We must show future generations that the best way to advance our shared goals is to embrace all members of our human family regardless of who they are.</ParaText>
+              <ParaText id="4835613">The message is clear: Anyone can bully and anyone can be victimized by bullying, but together we can stop it.</ParaText>
+              <ParaText id="4835614"> I invite members to participate in the Day of Pink by tweeting #ICelebrateDiversity and #dayofpink.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481264">
+        <Timestamp Hr="15" Mn="15">(1515)</Timestamp>
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Cancer</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Ruimy" id="9481265">
+            <PersonSpeaking>
+              <Affiliation DbId="214046" Type="2">Mr. Dan Ruimy (Pitt Meadows—Maple Ridge, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835615"> Mr. Speaker, you may have noticed that I am wearing a daffodil today. April is Daffodil Month, and the daffodil symbolizes the work done by the Canadian Cancer Society to educate the public and raise funds for cancer research.</ParaText>
+              <ParaText id="4835616">We can be proud of the innovative research being done in Canada.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="4835617">Recently, researchers have been working to block breast cancer with Zantac, normally used for heartburn. Discoveries with pancreatic cancer cells may allow scientists to create drugs to block or reverse the spreading of the disease. New advancements have led to genetic screening, which is less costly, more accessible, and may boost cancer survival rates.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="4835618">That kind of progress is truly remarkable. I want to thank everyone in Canada who is working to eradicate cancer and providing hope to us all. We need to work together to beat cancer.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481268">
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Armenia</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Chan" id="9481269">
+            <PersonSpeaking>
+              <Affiliation DbId="213936" Type="2">Mr. Arnold Chan (Scarborough—Agincourt, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835619">Mr. Speaker, let me thank my friend from <Affiliation DbId="214372" Type="2">Cambridge</Affiliation> for his earlier comments. I also stand today as chair of the Canada-Armenia Parliamentary Friendship Group to recognize, along with the Armenian community, April 24, as it commemorates the 102nd anniversary of the Armenian genocide.</ParaText>
+              <ParaText id="4835620">This day of remembrance pays tribute to the victims and survivors. To this end, we reaffirm our commitment to an inclusive and diverse society, while rejecting all forms of intolerance, discrimination, and hatred.</ParaText>
+              <ParaText id="4835621">April is genocide prevention month, which was led by former MP Brad Butt through his Motion No. 587, and passed by the House in 2015. </ParaText>
+              <ParaText id="4835622">This acknowledgement of Armenian genocide memorial day is important for all of us to remember. I commend the Armenian community for passing the memory of the Armenian genocide to future generations. If we do not remember the mistakes of the past, we are destined to repeat them.</ParaText>
+              <ParaText id="4835623">On this solemn occasion, let us renew our commitment to stand for human rights and justice at home and around the world.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481271">
+        <SubjectOfBusinessTitle>Rights of Workers</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Calkins" id="9481272">
+            <PersonSpeaking>
+              <Affiliation DbId="214218" Type="2">Mr. Blaine Calkins (Red Deer—Lacombe, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835624">Mr. Speaker, the Liberals would not know the right thing to do if it jumped up and bit them. </ParaText>
+              <ParaText id="4835625">A few years ago, my private member's bill, Bill C-525, received royal assent. The bill protected workers' rights by ensuring that mandatory secret ballot voting was used in the certification and decertification of a union. </ParaText>
+              <ParaText id="4835626">Shortly after the Liberals took office, they introduced Bill <Document DbId="8073132" Type="3">C-4</Document>. This piece of poorly written legislation sought, among many other things, to remove a worker's right to a secret ballot vote. Clearly, Bill C-4 was a regressive attempt by the Liberals to gain favour with union bosses as it would have made it easier for unions to use intimidation tactics in the workplace during a union drive.</ParaText>
+              <ParaText id="4835627">Yesterday, the Senate of Canada got it right where the Liberal government got it wrong. I am pleased that in the 43-34 decision, the Senate voted to amend Bill <Document DbId="8073132" Type="3">C-4</Document> and keep the provision of a mandatory secret ballot vote in place.</ParaText>
+              <ParaText id="4835628">I would like to take this opportunity to thank the senators for their leadership on the bill and for protecting the rights of workers across Canada.</ParaText>
+              <ParaText id="4835629">I would further encourage my colleagues across the way to accept the amendments as presented by the Senate, or get rid of this clearly misguided bill altogether.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481274">
+        <SubjectOfBusinessTitle> International Day of Pink</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Boissonnault" id="9481275">
+            <PersonSpeaking>
+              <Affiliation DbId="214526" Type="2">Mr. Randy Boissonnault (Edmonton Centre, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835630">Mr. Speaker, on this International Day of Pink when Nobel laureate Malala Yousafzai addressed Parliament, we raise awareness to confront homophobia, trans phobia, trans-misogyny, and all other forms of discrimination and bullying. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="4835631">Let us all join together today to celebrate diversity and inclusion.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="4835632">Too many people face discrimination and harassment because they are lesbian, gay, bisexual, transgender, queer, two spirit, or gender non-conforming.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="4835633">We all have the capacity to celebrate our differences and stand up against the violence, discrimination, and bullying that still happens every day.</ParaText>
+              <Timestamp Hr="15" Mn="20">(1520)</Timestamp>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="4835634">Whether our actions are symbolic, substantive, or both, standing up and speaking out make all the difference in the world to those who are bullied.</ParaText>
+              <ParaText id="4835635"> I call on everyone in the House to proudly wear pink today and to take a stand against bullying and discrimination every day. It is the least that we can do.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481277">
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle> Malala Yousafzai, Leymah Gbowee and Yanar Mohammed</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Laverdière" id="9481278">
+            <PersonSpeaking>
+              <Affiliation DbId="214113" Type="2">Ms. Hélène Laverdière (Laurier—Sainte-Marie, NDP)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835636">Mr. Speaker, today in Ottawa we are welcoming three courageous women: Malala Yousafzai, from Pakistan, and Leymah Gbowee, from Liberia, both recipients of the Nobel Peace Prize, as well as Yanar Mohammed, from Iraq, a prominent human rights advocate. </ParaText>
+              <ParaText id="4835637">This is an extraordinary opportunity to celebrate the role of women in promoting peace and security, which can only be achieved with full respect for human rights.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="4835638">It is also an occasion to remind ourselves of the need to ensure we walk the talk on feminism and increase funding to implement the women, peace, and security agenda.</ParaText>
+              <ParaText id="4835639">We should also increase our support to women at the grassroots level, which right now stands at only 0.03% of Canada's aid budget.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="4835640">If we really want to support women like Malala, Leymah, and Yanar, we must also fund their work.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481283">
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Honorary Citizenship</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Harder" id="9481284">
+            <PersonSpeaking>
+              <Affiliation DbId="214456" Type="2">Ms. Rachael Harder (Lethbridge, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835641">Mr. Speaker, the honorary citizenship bestowed upon Malala Yousafzai today is a wonderful testament to this young woman's strength and perseverance. This long-awaited event is the result of our previous government's decision to award her honorary citizenship. It is an honour that has been extended to only five people previous to her. </ParaText>
+              <ParaText id="4835642">At a very young age, she is a symbol of determination and hope for young people around the world. </ParaText>
+              <ParaText id="4835643">I am extremely proud to see two different governments come together across many years, and even partisan lines, in order to support Malala's work and her message to the world. She exemplifies so much of what it means to be Canadian: Be brave, trust in our convictions, and stand up for those who need support.</ParaText>
+              <ParaText id="4835644">Today, we honour Malala for her courage and with sincere hearts we thank her.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481288">
+        <SubjectOfBusinessTitle>Education</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Khalid" id="9481289">
+            <PersonSpeaking>
+              <Affiliation DbId="213901" Type="2">Ms. Iqra Khalid (Mississauga—Erin Mills, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835645">Mr. Speaker, knowledge is power and education empowers. Education empowers youth to do better, to be better, to work toward resolving the issues of our time: extremism, climate, health. It is not easy to fight for the right to education. It takes courage.</ParaText>
+              <ParaText id="4835646"> When Malala faced persecution in her pursuit of an education for herself and those around her, she had two choices. She could have bent to the will of the ignorant, but she chose to take a stance to empower those around her.</ParaText>
+              <ParaText id="4835647">It is an honour to have the Nobel peace laureate Malala Yousafzai with us today. Her advocacy for education is a reminder that we all share responsibility in building a better world.</ParaText>
+              <ParaText id="4835648">I look forward to continue working with the <Affiliation DbId="214322" Type="4">Minister of International Development and La Francophonie</Affiliation> on empowerment through education in Canada and abroad.</ParaText>
+              <ParaText id="4835649">Now more than ever the world needs more Canada.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481622">
+        <SubjectOfBusinessTitle>House of Commons Maintenance Staff</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="The Speaker" id="9481290">
+            <PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835650">Colleagues, there are many people who assist us in doing our work around Parliament Hill. If members do not mind, today I would like to note the maintenance people who help set up for committee meetings and all kinds of things. They worked late last night, setting up for today's special event, and they work so hard for us every day.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+    <OrderOfBusiness id="9481291" Rubric="OralQuestionPeriod">
+      <OrderOfBusinessTitle>ORAL QUESTIONS</OrderOfBusinessTitle>
+      <CatchLine>Oral Questions</CatchLine>
+      <SubjectOfBusiness id="9481292">
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Taxation</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Ambrose" id="9481293">
+            <PersonSpeaking>
+              <Affiliation DbId="214611" Type="96">Hon. Rona Ambrose (Leader of the Opposition, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835651">Mr. Speaker, since coming to power, the Liberals have continued to fail the middle class: taxes on payroll, groceries, electricity, and fuel; taxes on public transit and Uber; taxes on beer and wine; taxes on local businesses; and taxes on fishing, camping, passports, and all manner of federal permits.</ParaText>
+              <ParaText id="4835652">Can the Prime Minister tell us what he plans to tax next, or when this taxation insanity will end?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="25">(1525)</Timestamp>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481295">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835653">Mr. Speaker, on the contrary, we are proud of our choices to help the middle class. We raised taxes for the wealthiest 1% so that we could lower them for the middle class. We created a Canada child benefit that gives more money to nine out of ten families and will lift 40% or hundreds of thousands of children out of poverty.</ParaText>
+              <ParaText id="4835654">Every day, we are working for the middle class and those working hard to join it. We will continue to make choices that will help people across the country.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Ambrose" id="9481297">
+            <PersonSpeaking>
+              <Affiliation DbId="214611" Type="96">Hon. Rona Ambrose (Leader of the Opposition, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835655">Mr. Speaker, the truth is that the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> just cannot help himself from nickel-and-diming regular Canadians. First, he went after their Saturday night by taxing beer, wine, Uber, bus passes. Now he is going after their May long weekend camping trip too. He is hiking fees on a fishing licence and even on campsites, and those fees are going to keep going up forever.</ParaText>
+              <ParaText id="4835656">The middle class and those working hard to join it deserve some rest and relaxation once in a while. Why is the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> taxing their time off too?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481299">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835657">Mr. Speaker, I agree entirely with the member opposite that Canadians love to get outdoors and enjoy our wilderness, which is why I am so proud that this government has made it free access to Canada's national parks for our 150th birthday. The opportunity for millions of Canadians to get out to discover the extraordinary wild spaces across Canada, to see the amazing parks we have is something I know all members of the House will encourage Canadians to go discover our national parks this summer.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Ambrose" id="9481301">
+            <PersonSpeaking>
+              <Affiliation DbId="214611" Type="96">Hon. Rona Ambrose (Leader of the Opposition, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835658">Mr. Speaker, when hard-working Canadians get time off for a family vacation, they are often on a budget. This means that many times they are taking a modest occasional family camping trip. It is affordable, it is relaxing, and it is fun. However, for some reason, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> wants to make it less affordable and less fun.</ParaText>
+              <ParaText id="4835659">While taxpayers are on the hook for $130,000 for the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>'s private island getaway, fees are going up at campsites all across the country. How is this fair?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481304">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835660">Mr. Speaker, I am tremendously proud to remind Canadians that this year access to our national parks is absolutely free. We know that for our 150th birthday, encouraging Canadians to get out and discover the amazing beauty of our national parks, our historic sites, is going to be really important to create the kind of pride in our country and to share with our kids the extraordinary natural beauty for future generations to come.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481309">
+        <SubjectOfBusinessTitle>Justice</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Ambrose" id="9481470">
+            <PersonSpeaking>
+              <Affiliation DbId="214611" Type="96">Hon. Rona Ambrose (Leader of the Opposition, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835661">Mr. Speaker, I introduced a bill that would ensure judges would be trained to deal with sexual assault trials. Fixing this problem is something that is necessary and is widely supported. Too many rape victims do not report the violence they experience because they have no confidence in the justice system.</ParaText>
+              <ParaText id="4835662"> I understood from our conversations and the votes of his caucus that the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> was committed to passing this legislation, but now I hear otherwise. I would like to give the Prime Minister a chance today to be clear. With a simple yes or no, will the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> and his caucus pass this bill and support rape victims?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481311">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835663">Mr. Speaker, as everyone in the House knows, I take very seriously the responsibility of society, to protect survivors of sexual assault, to give them processes through our justice system that will give them the right support. However, as everyone in the House also knows, I respect Parliament and the work done in committees. I encourage everybody to continue to do their—</ParaText>
+              <ParaText id="4835664">
+                <B>Some hon. members:</B> Oh, oh!</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9481312">
+            <PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835665">Order, please. If members have arguments to make, they should save them so we can all hear them when they have the floor.</ParaText>
+              <ParaText id="4835666">The right hon. <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> has a few more seconds.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Trudeau" id="9481313">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835667">Mr. Speaker, I look forward to the discussions being had at committee right now on the best way to protect survivors within our justice system. I can emphasize again that we have put forward a strategy on gender-based violence and have even put money toward the training of judges, as well.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Ambrose" id="9481316">
+            <PersonSpeaking>
+              <Affiliation DbId="214611" Type="96">Hon. Rona Ambrose (Leader of the Opposition, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835668">Mr. Speaker, the NDP and other parties support it. Even chief justices have come forward to support this. Lawyers support it, judges support it, academics support it, advocates for change support it, and front-line sexual assault supporters definitely support it. Who else supports it? Women across this country who want to have more confidence in our justice system.</ParaText>
+              <ParaText id="4835669">The <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> talks the talk of the feminists, but I would like to know how he could possibly defend the status quo.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="30">(1530)</Timestamp>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481318">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835670">Mr. Speaker, not only do we know how important it is to ensure that survivors of sexual assault have strong access to justice, we also need to make sure that our judiciary looks more like Canada. That is why we are proud that 60% of our appointments to judge positions at the federal level were women. That is up from about 35% under the previous government. The fact is, there are a lot of things we can and must do to improve the way our justice system treats survivors of sexual assault.</ParaText>
+              <ParaText id="4835671"> I am pleased that the committee is looking at many ways of doing it, including the private member's bill brought forward by the member.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481321">
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>The Budget</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Boulerice" id="9481320">
+            <PersonSpeaking>
+              <Affiliation DbId="214102" Type="2">Mr. Alexandre Boulerice (Rosemont—La Petite-Patrie, NDP)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835672">Mr. Speaker, some time ago, a Liberal candidate said that he would not use omnibus bills, period.</ParaText>
+              <ParaText id="4835673">Who said that? The current Prime Minister. The budget implementation bill amends no less than 30 laws, from immigration and navigation protection to justice. At the same time, it privatizes our infrastructure, creates tolls, cuts the public transit tax credit, and keeps tax breaks for CEOs.</ParaText>
+              <ParaText id="4835674">Why do the Liberals always look after their rich friends?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481323">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835675">Mr. Speaker, the previous government used omnibus bills to prevent debate in the House and to limit the ability of MPs to examine what was in the budget by putting all kinds of different things in one single budget.</ParaText>
+              <ParaText id="4835676">We made a commitment to put only budget items that are part of Canada's economic plan in the budget implementation bill. That is exactly what we are doing. We will not make inappropriate use of omnibus bills like the former government did.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Cullen" id="9481325">
+            <PersonSpeaking>
+              <Affiliation DbId="214590" Type="2">Mr. Nathan Cullen (Skeena—Bulkley Valley, NDP)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835677">Mr. Speaker, today I think we should try to bring together two people who have clearly become estranged from one another. It is time for an intervention.</ParaText>
+              <ParaText id="4835678">Not so long ago, the man from <Affiliation DbId="214115" Type="2">Papineau</Affiliation> said this about omnibus bills: “I’d like to say I wouldn’t use them, period.” That seems pretty clear. He also said, “The kitchen-sink approach here is a real worry to me.” Yes, to me too, yet the Prime Minister has just dropped a 300-page omnibus bill on Canadians.</ParaText>
+              <ParaText id="4835679">My question for the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> is this: Whatever happened to that guy from <Affiliation DbId="214115" Type="2">Papineau</Affiliation>?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481327">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835680">Mr. Speaker, I saw for many years the previous government use omnibus legislation as a way of avoiding debate, as a way of putting everything into a piece of legislation, whether or not it had links to it.</ParaText>
+              <ParaText id="4835681">A budget bill contains--</ParaText>
+              <ParaText id="4835682">
+                <B>Some hon. members:</B> Oh, oh!</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9481328">
+            <PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835683">Order. We need to hear the answer. When “order” is said, members need to listen. The Right Hon. Prime Minister has 20 seconds.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Trudeau" id="9481329">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835684">Mr. Speaker, any budget bill contains a broad range of provisions that will include economic outcomes for Canadians that touch on a broad range of issues, because Canadians want to know that their government is dealing with the broad scope of challenges Canadians are facing at the economic level.</ParaText>
+              <ParaText id="4835685">That is exactly why we are proud of all the elements in this budget that are being put forward to help the middle class and those working hard to join it.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481352">
+        <SubjectOfBusinessTitle>Government Accountability</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Cullen" id="9481331">
+            <PersonSpeaking>
+              <Affiliation DbId="214590" Type="2">Mr. Nathan Cullen (Skeena—Bulkley Valley, NDP)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835686">Mr. Speaker, every budget “contains a broad range of provisions”. I did not think I would hear the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> quoting Stephen Harper.</ParaText>
+              <ParaText id="4835687">I am sorry, but by the <Affiliation DbId="214296" Type="1">Prime Minister's</Affiliation> own definition, this is an omnibus bill. What is the word for that? Oh, yes. The word is “hypocrisy”.</ParaText>
+              <ParaText id="4835688">The bill would change the PBO, a critical watchdog the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> once said must have “independent strength, to offer the check and balance to a government.” The Prime Minister's omnibus bill would completely gut that independent strength of the PBO. That is something from a guy who used to admit that checks and balances were essential, because the “prime minister with a majority is more powerful...than any Western leader.”</ParaText>
+              <ParaText id="4835689">Why is this <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> gutting the power to hold him to account?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481334">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835690">Mr. Speaker, we are proud to be following through on our commitment to strengthen the independence of the parliamentary budget officer; to make him or her a full officer of Parliament, accountable to the Speakers of the House and the Senate and not to the librarian of Parliament; to give him or her greater tools to access information to answer the questions parliamentarians may ask; and even, at the request of political parties, to evaluate political platforms to make sure Canadians know what they are getting when they vote for someone.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Boulerice" id="9481337">
+            <PersonSpeaking>
+              <Affiliation DbId="214102" Type="2">Mr. Alexandre Boulerice (Rosemont—La Petite-Patrie, NDP)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835691">Mr. Speaker, the Liberal government wants to tie the hands of the parliamentary budget officer under the guise of making him more independent. That is what we are seeing with Bill <Document DbId="8874160" Type="3">C-44</Document>, and it is very troubling.</ParaText>
+              <ParaText id="4835692">I would like to ask three very simple questions. Will the parliamentary budget officer still have the freedom to initiate investigations based on current events or will he be subject to an annual plan? Will parliamentarians be able to request investigations on subjects of their choice? Finally, will the ministers and departments be bound by law to co-operate with and give information to the parliamentary budget officer?</ParaText>
+              <ParaText id="4835693">The quality of our democratic life depends on this. These are three very serious questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="35">(1535)</Timestamp>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481339">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835694">Mr. Speaker, I understand the concerns and fervour of the member opposite.</ParaText>
+              <ParaText id="4835695">When we were in the opposition, we too had need of a more independent parliamentary budget officer who could answer our questions. Thanks to this bill, you will have improved access to an officer of Parliament, the parliamentary budget officer, who will be able to do what is expected.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="9481340">
+            <PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835696">I remind the hon. <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> to address his comments to the Chair.</ParaText>
+              <ParaText id="4835697">The hon. member for <Affiliation DbId="214127" Type="2">Lac-Saint-Jean</Affiliation>.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481342">
+        <SubjectOfBusinessTitle>Ethics</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lebel" id="9481341">
+            <PersonSpeaking>
+              <Affiliation DbId="214127" Type="2">Hon. Denis Lebel (Lac-Saint-Jean, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835698">Mr. Speaker, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> admitted to flying in a private helicopter during a dream vacation. That is against the rules.</ParaText>
+              <ParaText id="4835699">He then said it was the only way to get to the island. Now we have learned that one of his employees had 400 pounds of cargo, and the cargo went to the island. Something is fishy here.</ParaText>
+              <ParaText id="4835700">Today the Conflict of Interest and Ethics Commissioner is investigating the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>. That is unprecedented. What is he going to tell the commissioner? That it was a little personal trip? I personally do not need one of my employees to bring 400 pounds of cargo when I go on vacation.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481344">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835701">Mr. Speaker, it was a family vacation with a long-time family friend. As I have said many times, I am very happy to work with the Conflict of Interest and Ethics Commissioner and to answer any questions she may have. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Lebel" id="9481347">
+            <PersonSpeaking>
+              <Affiliation DbId="214127" Type="2">Hon. Denis Lebel (Lac-Saint-Jean, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835702">Mr. Speaker, this morning, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> mentioned Malala's humility, and I completely agree with him. He should also have shown some humility and recognized that it was Prime Minister Harper who recognized Malala as a Canadian citizen. He should have done so.</ParaText>
+              <ParaText id="4835703">Mr. Harper would never have agreed to travel to a private island for a so-called personal vacation at a cost of $150,000 to taxpayers. I consider this a lack of respect for the office of a government member.</ParaText>
+              <ParaText id="4835704">Will the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> tell us what happened and why it cost Canadians $135,000?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481349">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Le très hon. Justin Trudeau (premier ministre, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835705">Mr. Speaker, I am very proud to have welcomed Malala as an honorary Canadian citizen here, in Ottawa, so she could address Parliament.</ParaText>
+              <ParaText id="4835706">I would like to point out that she became an honorary citizen thanks to a unanimous vote in the House of Commons. Everyone wanted Malala to become a Canadian citizen.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Rempel" id="9481351">
+            <PersonSpeaking>
+              <Affiliation DbId="213994" Type="2">Hon. Michelle Rempel (Calgary Nose Hill, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835707">Mr. Speaker, nearly 10% of my city is out of work and struggling with the emotional stress of trying to make ends meet, so when the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> stands in this place and tells these people he did nothing wrong by spending hundreds of thousands of their tax dollars on a personal vacation, he disrespects them.</ParaText>
+              <ParaText id="4835708">When the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> stands and tries to spin that he somehow has the right to flagrantly fly above the law, does he think Canadian taxpayers are fools, or does he think they are foolish enough to buy that garbage?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481354">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835709">Mr. Speaker, as I have said a number of times, this was a personal family vacation with an old friend. We are happy to work with the Conflict of Interest and Ethics Commissioner to answer any questions the member may have. </ParaText>
+              <ParaText id="4835710">At the same time, we are proud of the things we have been doing for the middle class and those working hard to join it, which has included lowering taxes on the middle class and raising them on the wealthiest 1%, despite that member and all of her colleagues voting against raising taxes on the wealthy.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Rempel" id="9481356">
+            <PersonSpeaking>
+              <Affiliation DbId="213994" Type="2">Hon. Michelle Rempel (Calgary Nose Hill, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835711">Mr. Speaker, tens of thousands of middle-class Canadians wish they could take a vacation with their old friends, but they cannot because of the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>'s taxes and his spending their taxpayer dollars on his personal vacation. Worse, now when he is trying to explain why he broke the law, he is blaming the RCMP for his poor judgment and his poor choices. Are you kidding me, Mr. Speaker? When is the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> going to stand up and tell Canadians that he is sorry?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481358">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835712">Mr. Speaker, I certainly do not think you are kidding anyone in the House.</ParaText>
+              <ParaText id="4835713">The fact is, we will continue to work with the Conflict of Interest and Ethics Commissioner to answer any questions she may have. In the meantime, we will continue to stay focused on lowering taxes on the middle class, raising them on the wealthiest 1%, and delivering a Canada child benefit that helps nine out of 10 Canadian families and will lift hundreds of thousands of kids out of poverty right across this country.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="40">(1540)</Timestamp>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Bergen" id="9481360">
+            <PersonSpeaking>
+              <Affiliation DbId="214460" Type="2">Hon. Candice Bergen (Portage—Lisgar, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835714">Mr. Speaker, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> does not seem to answer direct questions, so let us try again. </ParaText>
+              <ParaText id="4835715">The Prime Minister was the one who told Canadians in January that his only option was to take this helicopter. Yesterday he put the blame on the RCMP, so Canadians are confused. Could he clear this up for Canadians? Is he willing to table the documentation, whether emails or written advice, that shows that the RCMP told him to break the law?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481363">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835716">Mr. Speaker, as I have said many times, I am happy to work with the Conflict of Interest and Ethics Commissioner to answer all questions she may have so that she can determine that indeed all the rules were appropriately followed.</ParaText>
+              <ParaText id="4835717">The fact is, we know that being ready to work with the Conflict of Interest and Ethics Commissioner is extremely important, and that is exactly what we are doing. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Bergen" id="9481366">
+            <PersonSpeaking>
+              <Affiliation DbId="214460" Type="2">Hon. Candice Bergen (Portage—Lisgar, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835718">Mr. Speaker, this is about being honest with Canadians. Either the <Affiliation DbId="214296" Type="1">Prime Minister </Affiliation>was misleading Canadians in January, or he is now. </ParaText>
+              <ParaText id="4835719">He is talking about talking to the Ethics Commissioner, so I have two questions for him: What has he told the Ethics Commissioner? Was it “The RCMP made me do it” or was it “It was my only option”? Also, has he met with the Ethics Commissioner already?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481368">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835720">Mr. Speaker, we are happy to engage on an ongoing basis with the Conflict of Interest and Ethics Commissioner. This is important, because Canadians need to have confidence in the people who wield public trust, and that is exactly why I am so pleased to be working with her. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Trudel" id="9481370">
+            <PersonSpeaking>
+              <Affiliation DbId="214168" Type="2">Ms. Karine Trudel (Jonquière, NDP)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835721">Mr. Speaker, does the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> believe that it is important to tell the truth, not only to the Conflict of Interest and Ethics Commissioner, but also here, in the House, to all parliamentarians?</ParaText>
+              <ParaText id="4835722">If yes, why did he say that the only way to get to the private island owned by his friend, the Aga Khan, was by helicopter?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481373">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835723">Mr. Speaker, as I said, I am very pleased to be able to work with the Conflict of Interest and Ethics Commissioner. However, as we know, it is the RCMP that makes recommendations about the most secure way for the prime minister to travel. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Blaikie" id="9481375">
+            <PersonSpeaking>
+              <Affiliation DbId="214129" Type="2">Mr. Daniel Blaikie (Elmwood—Transcona, NDP)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835724">Mr. Speaker, in case he does not realize it, the <Affiliation DbId="214296" Type="1">Prime Minister </Affiliation>is not rehearsing lines for a play: he is answering questions about whether or not he broke the law. What we want to know is what he is going to tell the Ethics Commissioner, and he can say it in this place as well. Was the private helicopter that he chose to get on the only way to get to the island, yes or no?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481378">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835725">Mr. Speaker, I have answered the question a number of times in this place. </ParaText>
+              <ParaText id="4835726">What I continue to work on is focusing on the things that matter to Canadians, whether it is lowering taxes for the middle class and raising them on the wealthiest 1%, putting forward a budget with historic investments in infrastructure that are going to make it easier for Canadians to get to and from work, or making sure that there are proper investments in the national housing strategy. These are the kinds of things that Canadians talk to me about whenever I leave the House and go across the country. Canadians want to know how the government is working for them, and we are happy to be talking about that. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9481379">
+            <PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835727">Order. Order. The hon. member for <Affiliation DbId="214480" Type="2">Cape Breton—Canso</Affiliation> does not get a freebie. I am sorry. I would ask him to restrain himself, along with whoever he is talking to over on the opposite side, down by the far corner. </ParaText>
+              <ParaText id="4835728">The hon. member for Parry Sound—Muskoka.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Clement" id="9481380">
+            <PersonSpeaking>
+              <Affiliation DbId="214103" Type="2">Hon. Tony Clement (Parry Sound—Muskoka, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835729"> Mr. Speaker, this is a serious issue involving the<Affiliation DbId="214296" Type="1"> Prime Minister</Affiliation>'s judgment. He goes to billionaire island. He says the only way to get there is on a private helicopter, which is completely contrary to the rules of transport for the prime minister. The taxpayers are on the hook for this kind of money, and he will not answer questions in the House from parliamentarians. He is disrespecting Parliament. He is disrespecting the taxpayers. When is he going to come clean? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481384">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835730">Mr. Speaker, any ethics question is a serious one. That is why I am so happy to work with the Conflict of Interest and Ethics Commissioner and answer any questions she has on this issue.</ParaText>
+              <ParaText id="4835731">We continue to be focused as a government on the things that Canadians talk to us about in our constituencies and across the country, whether it is continuing to lower their taxes, as we already have, or investing in the kind of strong future for our students and our workers, who are looking at the changing job market and needing the support of a government that is actively helping them find new opportunities. </ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481950">
+        <Timestamp Hr="15" Mn="45">(1545)</Timestamp>
+        <SubjectOfBusinessTitle>Public Safety</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Clement" id="9481396">
+            <PersonSpeaking>
+              <Affiliation DbId="214103" Type="2">Hon. Tony Clement (Parry Sound—Muskoka, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835732">Mr. Speaker, I hope the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> can answer this question. Yesterday, his <Affiliation DbId="214333" Type="4">Minister of Transport</Affiliation> went out to the public and said that there is a national security threat involving our airlines. The minister will not tell passengers or Canadians what the nature of the threat is. He will not say where it is coming from. He will not say how people can protect themselves against the threat. </ParaText>
+              <ParaText id="4835733">The Prime Minister and his government are showing the sensitivity of United Airlines. When are they going to come clean and tell passengers how they can protect themselves and what the nature of the threat is?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481400">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835734">Mr. Speaker, as Canadians know, we take the security of Canadians and of all air travellers extremely seriously. That is why we work with our police and security agencies, with our international partners, and with our airlines to determine how best to keep air travellers safe. I can reassure Canadians that we always do everything necessary to ensure that Canadians are safe, while at the same time protecting their charter rights and freedoms. That is what we will continue to do every step of the way.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mrs. Block" id="9481402">
+            <PersonSpeaking>
+              <Affiliation DbId="214485" Type="2">Mrs. Kelly Block (Carlton Trail—Eagle Creek, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835735">Mr. Speaker, three more workers continue to work at Trudeau airport, despite having their clearances revoked due to security concerns. To say that Canadians are shocked that these employees were previously cleared to work in secured areas would be an understatement.</ParaText>
+              <ParaText id="4835736"> While the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>'s response on this issue is tone deaf, all that the <Affiliation DbId="214333" Type="4">transport minister</Affiliation> is now offering are vague assurances and a secret plan. How can Canadians trust the Liberals to keep our airports secure?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481405">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835737">Mr. Speaker, the safety and security of Canadians and indeed all travellers are extremely important to this government. That is why we work every day to ensure that we are doing everything we can to keep Canadians safe. Our security agencies and police agencies work carefully every day to ensure that people are safe as they travel through our airports and elsewhere. That is why we are also moving forward on a committee of parliamentarians that will have oversight over our national security agencies and police agencies, to ensure that our charter rights are protected and that all our agencies are doing everything they can to keep Canadians safe at all times, which they are.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Berthold" id="9481408">
+            <PersonSpeaking>
+              <Affiliation DbId="214171" Type="2">Mr. Luc Berthold (Mégantic—L'Érable, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835738">Mr. Speaker, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>'s fine words show us that he is not aware of everything. Let us remember the facts.</ParaText>
+              <ParaText id="4835739">It took an investigation by the public affairs program <I>JE</I> to discover that potentially radicalized employees of the Pierre Elliott Trudeau airport in Montreal had access to secure areas.</ParaText>
+              <ParaText id="4835740">Yesterday, the <Affiliation DbId="214333" Type="4">Minister of Transport</Affiliation> revealed that three other employees have lost their access cards for those areas. What is unbelievable is that the Prime Minister knows that some of the employees in question are still working at the airport. That is unacceptable.</ParaText>
+              <ParaText id="4835741">When will the Prime Minister stop taking us for fools, tell us what is really happening, and take real measures to reassure Canadians?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481410">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835742">Mr. Speaker, all members of the House want to make sure that Canadians are safe. That is why we are working together every day to ensure that our police and intelligence services are doing everything they need to do to protect Canadians.</ParaText>
+              <ParaText id="4835743">I am very pleased to know that a committee made up of parliamentarians from all parties will be overseeing the actions of our police and national security agencies to ensure that everyone's rights and freedoms are respected and, more importantly, that Canadians are always safe in airports and in their communities.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481423">
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Marijuana</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. MacGregor" id="9481422">
+            <PersonSpeaking>
+              <Affiliation DbId="213912" Type="2">Mr. Alistair MacGregor (Cowichan—Malahat—Langford, NDP)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835744">Mr. Speaker, enough with the evasion, enough with the talking points. This is a direct question for the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>. Does he feel that he deserves a criminal record for having smoked marijuana, yes or no?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481425">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835745">Mr. Speaker, we are moving forward on legalizing marijuana for two reasons. One is that the current regime is failing our kids. Right now, under-age kids have easier access to marijuana than those in any country around the world. There is higher per capita use by under-age Canadians than kids in any other country. </ParaText>
+              <ParaText id="4835746">We want to make it more difficult for kids to access marijuana. That is why we are going to legalize and control marijuana. We also want to remove the billions of dollars from criminal organizations and street gangs that they use to commit more crimes.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481522">
+        <SubjectOfBusinessTitle>Steel Industry</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Ramsey" id="9481427">
+            <PersonSpeaking>
+              <Affiliation DbId="214139" Type="2">Ms. Tracey Ramsey (Essex, NDP)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835747">Mr. Speaker, I guess there are different rules for the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> than for the rest of Canada.</ParaText>
+              <ParaText id="4835748">Yesterday at the trade committee, the <Affiliation DbId="229217" Type="4">Minister of International Trade</Affiliation> admitted that he has not had any talks with China about steel dumping, despite having embarked on a potential free trade agreement with China. The Liberals also have no timeline on when they will finally deliver on long-awaited changes to Canada's trade remedy rules. </ParaText>
+              <ParaText id="4835749">Canada's steel industry deserves leadership from the government. I have one simple question. Will the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> pick up the phone, call his counterpart in China, and ask China to stop unfair steel dumping in our country?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="50">(1550)</Timestamp>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481429">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835750">Mr. Speaker, I can go one better. I was in China last year and actually brought it up directly with the Chinese leadership. </ParaText>
+              <ParaText id="4835751">The issue of Canadian steel and the prevalence and the dumping of Chinese steel is one that has concerned this government for a long time. That is why we have taken tangible, concrete steps in engaging with the Chinese at the highest level and why we continue to work with our American partners to ensure North American steel is supported and protected.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481434">
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Fisheries and Oceans</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Fraser  (West Nova)" id="9481432">
+            <PersonSpeaking>
+              <Affiliation DbId="214518" Type="2">Mr. Colin Fraser (West Nova, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835752">Mr. Speaker, my riding, West Nova, depends heavily on the fishing industry, which is at the core of our rural economy and of our identity.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="4835753">Could the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> provide us with details on how the new Atlantic fisheries fund helps support the fishing industry in my home province of Nova Scotia and throughout Atlantic Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481436">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835754">Mr. Speaker, the fish and seafood sector is integral to the economic and social fabric of thousands of coastal and indigenous communities in Canada, generating over $2.3 billion a year for the Canadian economy.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="4835755">Our government is reflecting on future opportunities for this sector and taking the necessary steps to transform it and support innovation to help it achieve even greater success. That is why we recently announced a $325-million investment in the new Atlantic fisheries fund.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="4835756">Investments under the Atlantic fisheries fund will increase employment opportunities for middle-class Canadians in coastal communities.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481440">
+        <SubjectOfBusinessTitle>Ethics</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Calkins" id="9481439">
+            <PersonSpeaking>
+              <Affiliation DbId="214218" Type="2">Mr. Blaine Calkins (Red Deer—Lacombe, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835757">Mr. Speaker, we already know that Canadians are outraged at the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> spending now over $133,000 to take a personal vacation to billionaire island, and he reluctantly admitted to reporters, after pressing, that he took the helicopter, the Aga Khan's private helicopter, to get to Bell Island.</ParaText>
+              <ParaText id="4835758">We know from documents that have been released that this simply is not true, because a float plane was hired by the Government of Canada to get some staffers there.</ParaText>
+              <ParaText id="4835759">My question for the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> is clear. He says that he will talk to the Ethics Commissioner, but why will he not just tell Canadians why he is making up this story when we know he could have taken an alternative route. Why does he not just tell us the truth?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481442">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835760">Mr. Speaker, this was a family vacation to visit an old time friend. As I have said, we are working with the Conflict of Interest and Ethics Commissioner to answer any of these questions. It is important that we do just that, and that is what we are doing.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Calkins" id="9481444">
+            <PersonSpeaking>
+              <Affiliation DbId="214218" Type="2">Mr. Blaine Calkins (Red Deer—Lacombe, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835761">Mr. Speaker, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> keeps saying that he is willing to meet with the Ethics Commissioner on his trip to the Aga Khan's island. He has been under this investigation by the commissioner for over three months.</ParaText>
+              <ParaText id="4835762"> Has he actually met with the Ethics Commissioner? If he has, how many times? If not, why has he not and when will he?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481446">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835763">Mr. Speaker, as I said, I am happy to work with the Ethics Commissioner on an ongoing basis to answer any questions she may have.</ParaText>
+              <ParaText id="4835764">Again, this government remains focused on the things Canadians are talking to us about every day, right across the country: whether it is how we will secure retirement for their aging parents, we talk about strengthening the CPP and increasing the GIS; whether it is giving opportunities to young people, we talk about increasing the Canada student grant by 50% and giving young people better access to post-secondary education. </ParaText>
+              <ParaText id="4835765">We put $2 billion into research and university research facilities to ensure we are innovating for the future.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481453">
+        <SubjectOfBusinessTitle>Standing Orders of the House of Commons</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Reid" id="9481450">
+            <PersonSpeaking>
+              <Affiliation DbId="214290" Type="2">Mr. Scott Reid (Lanark—Frontenac—Kingston, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835766">Mr. Speaker, when the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> promised he would be answering the questions on Wednesdays, we had no idea it would be done like this.</ParaText>
+              <ParaText id="4835767">The Liberal election platform contains only two commitments regarding the Standing Orders, only two, one of which is this gem, “We will change the...Standing Orders” to end omnibus bills.</ParaText>
+              <ParaText id="4835768">Yesterday, the <Affiliation DbId="214320" Type="4">Minister of Finance</Affiliation> tabled a 308 page budget implementation act, which makes amendments to more than 20 different statutes. It is the very model of a modern major omnibus.</ParaText>
+              <ParaText id="4835769">The Prime Minister insists that the opposition is not allowed to veto his campaign commitments about the Standing Orders, why—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9481454">
+            <PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835770">The right hon. <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481455">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835771">Mr. Speaker, the abuse of omnibus legislation under the previous government was egregious and something on which we committed to take action. That is why in the legislation we put forward, including in the budget legislation we put forward, everything is related to the budget. Everything is thematically linked. </ParaText>
+              <ParaText id="4835772">On top of that, what we are proposing in terms of changes to the Standing Orders will allow you, Mr. Speaker, to group into thematic groupings any piece of legislation to allow different committees to be able to study it better.</ParaText>
+              <ParaText id="4835773">That is one of the ways in which we could make the House work better, if we worked—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="55">(1555)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9481848">
+            <PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835774">The hon. member for Banff—Airdrie.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Richards" id="9481457">
+            <PersonSpeaking>
+              <Affiliation DbId="214548" Type="2">Mr. Blake Richards (Banff—Airdrie, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835775">Mr. Speaker, can members spell “hypocrisy”? </ParaText>
+              <ParaText id="4835776">Let me fill the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> in on something else. Parliament belongs to Canadians and not to him. It will not be changed to suit his selfish needs.</ParaText>
+              <ParaText id="4835777">Canadians certainly see through the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>'s blatant disrespect for our democracy. They will simply not stand for the Liberals' ramming through substantive changes to how their democracy works, especially when they are changes that will remove any ability to hold him accountable.</ParaText>
+              <ParaText id="4835778">Will the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> drop his “me, me, me” attitude and actually respect Canadian democracy for a change?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481459">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835779">Mr. Speaker, I am pleased to hear the member's passion for reforming our democracy and I am excited to get all input from members of this House on how we can improve and modernize the functioning of this House.</ParaText>
+              <ParaText id="4835780">That is exactly what we are looking forward to: engaging with all members in this House in a substantive conversation on how to better serve our constituents and all Canadians, with rigorous debate that allows the opposition to hold the government to account and allows government to continue to fulfill the ambitious election promises that we made.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481464">
+        <SubjectOfBusinessTitle>Health</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Blaney (North Island—Powell River)" id="9481461">
+            <PersonSpeaking>
+              <Affiliation DbId="214470" Type="2">Ms. Rachel Blaney (North Island—Powell River, NDP)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835781">Mr. Speaker, the CCPA's report on poverty inequity among British Columbian seniors exposed a dark truth about prescription drug costs.</ParaText>
+              <ParaText id="4835782">A disturbing number of British Columbians are not filling their prescriptions because they cannot afford the high cost. With little in the budget for seniors and with CETA around the corner, which will hike up these prices, the government must reduce prescription costs.</ParaText>
+              <ParaText id="4835783">Will the government leverage our combined buying power so that together we can negotiate lower drug prices?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481466">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835784">Mr. Speaker, I am pleased to confirm that this is exactly what we signed an agreement to do with the B.C. government, and indeed with all governments across this country.</ParaText>
+              <ParaText id="4835785">We will work together to reduce the costs of prescription drugs. I was pleased to have the Government of British Columbia be part of this. We are moving forward on doing exactly that.</ParaText>
+              <ParaText id="4835786">How are seniors are protected is extremely important to us. That is why we increased the GIS for our most vulnerable single seniors by 10% and why we lowered the age of retirement from 67 to 65. </ParaText>
+              <ParaText id="4835787"> We are going to continue to work for our seniors, and I thank the member opposite for her important question and her support.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9482081">
+        <SubjectOfBusinessTitle>Fisheries and Oceans</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Malcolmson" id="9481468">
+            <PersonSpeaking>
+              <Affiliation DbId="214119" Type="2">Ms. Sheila Malcolmson (Nanaimo—Ladysmith, NDP)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835788">Mr. Speaker, coastal communities have been calling for action to protect waterways from abandoned vessels for decades.</ParaText>
+              <ParaText id="4835789">The six-month deadline on the government's latest promise is just two weeks away, and the <Affiliation DbId="214333" Type="4">Minister of Transport</Affiliation>'s answer yesterday was old news with no impact.</ParaText>
+              <ParaText id="4835790"> On Sunday, coastal communities passed an emergency resolution to support my abandoned vessel legislation. Will the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> support our bill to protect our treasured coast so that communities can stop carrying this burden?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481471">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835791">Mr. Speaker, I was pleased to be out in B.C. a number of months with the <Affiliation DbId="214333" Type="4">Minister of Transport</Affiliation> and the <Affiliation DbId="223727" Type="4">Minister of Fisheries, Oceans and the Canadian Coast Guard</Affiliation> to announce a historic oceans protection plan that is going to demonstrate world-class protection of our oceans, including empowering coastal communities to have the tools and the support they need to be the first responders that they so often are in situations of distress and accidents.</ParaText>
+              <ParaText id="4835792">We know that investing in protection for our oceans makes sense both for the environment and for the Canadians who make their living on the ocean. That is why we are so serious about moving forward on a world-class oceans protection plan.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481474">
+        <SubjectOfBusinessTitle>Foreign Affairs</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Bezan" id="9481473">
+            <PersonSpeaking>
+              <Affiliation DbId="214380" Type="2">Mr. James Bezan (Selkirk—Interlake—Eastman, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835793">Mr. Speaker, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> promised to implement Magnitsky-style legislation so Canada could quickly sanction corrupt foreign officials, but he has done absolutely nothing.</ParaText>
+              <ParaText id="4835794">Last week the Assad regime perpetrated another war crime. Both Russia and Iran support the Syrian regime. Unfortunately, the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> has spent his time in office normalizing relationships with Russia, dropping sanctions against Iran, and stopping bombing in Syria by our CF-18s.</ParaText>
+              <ParaText id="4835795">Last night the Senate passed Bill <Document DbId="8232682" Type="4">S-226,</Document> the Sergei Magnitsky bill. Will the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> quit cosying up to dictators and despots and support this bill?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481477">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835796">Mr. Speaker, I am proud of the work our <Affiliation DbId="229209" Type="4">Minister of Foreign Affairs</Affiliation> has done, in Brussels last week and in Italy this week, with our international partners on holding the Syrian regime to account.</ParaText>
+              <ParaText id="4835797">On the issue of Russia, I think the Russian government has a very serious choice to make: whether it continues to support the war crime-committing, bloodthirsty regime of Bashar al-Assad or whether it stands with the international community in condemning those actions and moving forward in a real, tangible way towards peace for the Syrian people.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Kent" id="9481480">
+            <PersonSpeaking>
+              <Affiliation DbId="214192" Type="2">Hon. Peter Kent (Thornhill, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835798">Mr. Speaker, last week the foreign affairs committee tabled a unanimous report urging the government to not only update and enforce sanctions but also to expand them to include, in Sergei Magnitsky's name, gross violations of the sort barbarically committed by Syria last week with Russian complicity.</ParaText>
+              <ParaText id="4835799">The government has lamely suggested it needs more time to study the report. That is somewhat disingenuous, given the PM's support for a Magnitsky act two years ago.</ParaText>
+              <ParaText id="4835800">Will the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> now act?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="00">(1600)</Timestamp>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481482">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835801">Mr. Speaker, one of the things that Canadians have appreciated is our engagement back on the world stage in multilateral forums and recognize that Canada is most effective when we work alongside like-minded partners and act in concert to put pressure on various bad actors in the international order. That is why we are working so carefully with our colleagues and allies around the world to ensure that we are holding governments, like the Russian government, to account on the choices they make and ensuring that the sanctions we bring forward are the most impactful possible from an international standpoint.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481485">
+        <SubjectOfBusinessTitle>International Development</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Kent" id="9481484">
+            <PersonSpeaking>
+              <Affiliation DbId="214192" Type="2">Hon. Peter Kent (Thornhill, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835802">Mr. Speaker, our Russian friends just vetoed a UN Security Council resolution against Syria.</ParaText>
+              <ParaText id="4835803">Yesterday, the <Affiliation DbId="214322" Type="4">international development minister</Affiliation> tried to justify the misguided restoration of education funding to the hate-infected UN Relief and Works Agency with an undated quote of an Israeli general. She seems unaware that the general's boss, defence minister Lieberman, has just asked the United States to stop funding UNRWA because it continues to teach hate and demonize Israel.</ParaText>
+              <ParaText id="4835804">Can the Liberals not find another way to deliver aid?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481487">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835805">Mr. Speaker, we believe that constructive engagement on the world stage is what Canadians expect. </ParaText>
+              <ParaText id="4835806">Our re-engagement with UNRWA is actually allowing us to hold to closer account the choices and the funding that is delivered through that mechanism. We know that Canadian pressure and Canada being part of UNRWA allow us to ensure that the help is going to where it is needed and it is not creating negative consequences for Israel or for anyone else.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9481488">
+            <PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835807">I would ask the hon. member for <Affiliation DbId="214396" Type="2">Sherwood Park—Fort Saskatchewan</Affiliation> to restrain himself. I know he is very interested in these issues.</ParaText>
+              <ParaText id="4835808">The hon. member <Affiliation DbId="214183" Type="2">Dorval—Lachine—LaSalle</Affiliation>. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Dhillon" id="9481489">
+            <PersonSpeaking>
+              <Affiliation DbId="214183" Type="2">Ms. Anju Dhillon (Dorval—Lachine—LaSalle, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835809">Mr. Speaker, we had the honour of welcoming Malala Yousafzai to the House today. Malala is a model of courage and perseverance. Her fervent plea for the education of girls has inspired millions of people around the world.</ParaText>
+              <ParaText id="4835810">Will the Prime Minister take this opportunity to tell the House how important the education of girls around the world is to Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481492">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835811">Mr. Speaker, I thank the member for <Affiliation DbId="214183" Type="2">Dorval—Lachine—LaSalle</Affiliation> for her question.</ParaText>
+              <ParaText id="4835812">Our government has continually emphasized how crucial education is to empowering girls. Education promotes gender equality, reduces the incidence of child marriage and unwanted pregnancy, and promotes peace. </ParaText>
+              <ParaText id="4835813">Last year, close to $334 million of our international aid funding went to education. That is 9% of our total international aid.</ParaText>
+              <ParaText id="4835814">As we move toward implementing the 2030 agenda, we must work together to make quality education available from early childhood to the end of school—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="9481493">
+            <PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835815">Order.</ParaText>
+              <ParaText id="4835816">The hon. member for <Affiliation DbId="214421" Type="2">South Surrey—White Rock</Affiliation>.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481495">
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Infrastructure</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. Watts" id="9481494">
+            <PersonSpeaking>
+              <Affiliation DbId="214421" Type="2">Ms. Dianne L. Watts (South Surrey—White Rock, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835817">Mr. Speaker, the Liberals are sending a quarter of a billion dollars to China for the Asian infrastructure bank. Canadian taxpayers will be liable for $1.3 billion if these projects default.</ParaText>
+              <ParaText id="4835818">The Liberals claim the bank is a good way to finance development projects in the poorest countries. However, Canada already funds these types of projects through Global Affairs Canada.</ParaText>
+              <ParaText id="4835819">Why are the Liberals duplicating a process that already exists and sending taxpayer dollars to China instead of building infrastructure and creating jobs right here in Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481497">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835820">Mr. Speaker, we are proud that in budget 2017 we highlighted historic amounts of investment in infrastructure right across this country for bridges, roads, public transit systems, social housing. The impact on Canadians right across this country is going to be massive.</ParaText>
+              <ParaText id="4835821">Indeed, Canada has developed over the years a tremendous level of expertise in infrastructure investments, whether it is through our pension funds or elsewhere. Participating in infrastructure investments all around the world makes good sense for Canadian know-how and for Canadian investors.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481500">
+        <SubjectOfBusinessTitle>Indigenous Affairs</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Angus" id="9481499">
+            <PersonSpeaking>
+              <Affiliation DbId="214564" Type="2">Mr. Charlie Angus (Timmins—James Bay, NDP)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835822">Mr. Speaker, a political decision was made in the office of the <Affiliation DbId="214321" Type="4">justice minister</Affiliation> to suppress 12,000 pages of police evidence documenting the rape, the torture, and the abuse of children at St. Anne's Indian Residential School in Fort Albany. Justice officials trashed the legal proceedings and the credibility of survivors and fought to have legitimate cases thrown out.</ParaText>
+              <ParaText id="4835823">Will the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> of this country instruct his <Affiliation DbId="214321" Type="4">justice minister</Affiliation> to end the cover-up and turn over the memos so we can find out who in her office is responsible, and will he ask her why? Why are they—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="05">(1605)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9481501">
+            <PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835824">Order. I am sorry, but the last eight seconds were cut off before they should have been. I ask the hon. member for <Affiliation DbId="214564" Type="2">Timmins—James Bay</Affiliation> to repeat the last sentence, if he would not mind.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="Mr. Angus" id="9481502">
+            <PersonSpeaking>
+              <Affiliation DbId="214564" Type="2">Mr. Charlie Angus</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835825">Mr. Speaker, it is a simple question for the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>. Will he ask his<Affiliation DbId="214321" Type="4"> justice minister</Affiliation> why they are so determined to deny justice to the survivors of that brutal institution? It is a simple question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481504">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835826">Mr. Speaker, no relationship is more important to this government than the relationship with indigenous peoples. That is why we are working so hard to invest historic amounts of money, $8.4 billion in our first budget, billions more in the most recent budget, to begin the long work of creating opportunities and parity for indigenous peoples across this country.</ParaText>
+              <ParaText id="4835827">I am extraordinarily proud of the work our <Affiliation DbId="214321" Type="4">justice minister</Affiliation> is doing on this file and many other files. I stand by her in the great work she is doing.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481508">
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Telecommunications</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Graham" id="9481507">
+            <PersonSpeaking>
+              <Affiliation DbId="214137" Type="2">Mr. David de Burgh Graham (Laurentides—Labelle, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835828"> Mr. Speaker, access to reliable broadband Internet service is very important in today's economy. Rural and remote regions, like certain areas in my riding of Laurentides-Labelle, do not have the necessary infrastructure to support broadband services. I cannot wait for the “connect to innovate” program to be implemented to fix this problem.</ParaText>
+              <ParaText id="4835829">Would the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> like to update the House on this, one of the most important issues to Canadians living in rural areas all across the country?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481510">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835830">Mr. Speaker, I want to thank the member for <Affiliation DbId="214137" Type="2">Laurentides—Labelle</Affiliation> for his question and for his tireless work on rural issues. </ParaText>
+              <ParaText id="4835831">For people who live in rural regions, high-speed Internet opens up a world of economic opportunity. With the “connect to innovate” program, we will invest up to $500 million between now and 2021 to bring broadband Internet access to 300 of Canada's rural and remote communities.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="4835832">I know there are going to be Canadians all across the country getting onto their mobile phones, accessing their Internet, turning on their TVs, to watch the Stanley Cup playoffs, which start tonight, and I know that everyone across this country will join me in rooting for the Montreal Canadiens over the Maple Leafs, over the New York Rangers--</ParaText>
+              <ParaText id="4835833">
+                <B>Some hon. members:</B> Oh, oh!</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="9481511">
+            <PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835834">Now we are getting into dangerous territory.</ParaText>
+              <ParaText id="4835835">
+                <B>Some hon. members:</B> Oh, oh!</ParaText>
+              <ParaText id="4835836">
+                <B>The Speaker: </B>Order. That is the kind of thing that creates disorder in the House. I know the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> should realize that.</ParaText>
+              <ParaText id="4835837">The hon. member for <Affiliation DbId="214472" Type="2">Montmagny—L'Islet—Kamouraska—Rivière-du-Loup</Affiliation>.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481513">
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Justice</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Généreux" id="9481512">
+            <PersonSpeaking>
+              <Affiliation DbId="214472" Type="2">Mr. Bernard Généreux (Montmagny—L'Islet—Kamouraska—Rivière-du-Loup, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835838">Mr. Speaker, when it comes to judicial delays, the minister is trying to buy time by meeting with her provincial counterparts. In reality, all she has to do is read the newspaper, listen to the radio, and watch television. Everyone is laying the blame squarely on her shoulders, because the reality is this is in her wheelhouse.</ParaText>
+              <ParaText id="4835839">The judicial appointments advisory committee for eastern Quebec has yet to be created. The seven seats have been empty for a year and a half now.</ParaText>
+              <ParaText id="4835840">Can the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> explain how his minister is supposed to appoint judges when the committee has yet to be struck ?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481515">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835841">Mr. Speaker, we have set up a new judicial appointment process that made it possible to appoint women to 60% of the positions, since the beginning of our term, while the previous government made roughly 35% such appointments. We are very proud of our record on this.</ParaText>
+              <ParaText id="4835842">In Quebec, there are 163 federal judicial appointments. There are six vacant positions that we will fill shortly. We are taking this very seriously. The federal government is doing its work.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481518">
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Education</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Ms. May (Saanich—Gulf Islands)" id="9481517">
+            <PersonSpeaking>
+              <Affiliation DbId="214382" Type="2">Ms. Elizabeth May (Saanich—Gulf Islands, GP)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835843">Mr. Speaker, we were all moved enormously and inspired by the words of Malala Yousafzai in this place just hours ago. </ParaText>
+              <ParaText id="4835844">In her words, will the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation> make girls' education the central theme of his upcoming G7 presidency? Will he use the influence of Canada to help fill the global education funding gap? Will Canada offer to host the upcoming replenishment of the Global Partnership for Education? Will Canada prioritize 12 years of school for every refugee child?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481520">
+            <PersonSpeaking>
+              <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835845">Mr. Speaker, it was a tremendous honour today to welcome Malala Yousafzai in this House, and I agree with the member opposite that it was a historic moment. It challenges us all to do more and to be more. </ParaText>
+              <ParaText id="4835846">I can assure all members of the House that next year, in our G7 presidency, there will be a strong emphasis on gender equality and opportunity for women and girls across the world and here at home, including an emphasis on education. </ParaText>
+              <ParaText id="4835847">I look forward to working with the Global Partnership for Education to ensure that we are investing properly in education right around the world, specifically for girls. I know that ensuring K-12 education for all girls around the world is one of the paths forward to creating peace and prosperity around the world, opportunity for all, and economic growth for our country and for the developing world. That is what we will do.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481619">
+        <Timestamp Hr="16" Mn="10">(1610)</Timestamp>
+        <SubjectOfBusinessTitle>National Security and Intelligence Committee of Parliamentarians Act</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Debate" ToC="Yes" ToCText="The Speaker" id="9481521">
+            <PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835848">I wish to inform the House of an administrative error that occurred with regard to Bill <Document DbId="8364795" Type="3">C-22</Document>, an act to establish the national security and intelligence committee of parliamentarians and to make consequential amendments to certain acts. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="4835849"> Members may recall that the House studied a number of motions at report stage. On March 20, 2017, the House adopted some of those motions and rejected others. One of the rejected motions was Motion No. 7, moved by the hon. member for <Affiliation DbId="214384" Type="2">Victoria</Affiliation>, which was intended to delete clause 31 of the bill.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="4835850">The House concurred in the bill, as amended, at report stage with further amendments and eventually adopted the bill at third reading on April 4, 2017.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="4835851"> As is the usual practice following passage at third reading, House officials prepared a parchment version of the bill and transmitted this parchment to the Senate. Due to an administrative error, the version of the bill that was transmitted to the other place was prepared as if Motion No. 7 had been adopted and clause 31 had been deleted, with the renumbering of another clause in the bill as a result. Unfortunately, the mistake was not detected before the bill was sent to the other place.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="4835852">I wish to reassure the House that this error was strictly administrative in nature and occurred after third reading was given to Bill <Document DbId="8364795" Type="3">C-22</Document>. The proceedings that took place in this House and the decisions made by the House with respect to Bill C-22 remain entirely valid. The records of the House relating to this bill are complete and accurate.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="4835853">However, the documents relating to Bill <Document DbId="8364795" Type="3">C-22</Document> that were sent to the other place were not an accurate reflection of the House’s decisions.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="4835854">Speaker Milliken addressed a similar situation in a ruling given on November 22, 2001, found on page 7455 of <I>Debates</I>. My predecessor also dealt with a similar situation in a statement made on September 15, 2014, found on page 7239 of <I>Debates</I>. Guided by these precedents, similar steps have been undertaken in this case. </ParaText>
+              <ParaText id="4835855">First, once this discrepancy was detected, House officials immediately communicated with their counterparts in the Senate to set about resolving it. Next, I have instructed the Acting Clerk and his officials to take the necessary steps to rectify this error and to ensure that the other place has a corrected copy of Bill <Document DbId="8364795" Type="3">C-22</Document> that reflects the proceedings that occurred in this House. Thus, a revised version of the bill will be transmitted to the other place through the usual administrative procedures of Parliament. Finally, I have asked that the “as passed at third reading” version of the bill be reprinted.</ParaText>
+              <ParaText id="4835856">The Senate will, of course, make its own determination about how it proceeds with Bill <Document DbId="8364795" Type="3">C-22</Document> in light of this situation. I wish to reassure members that steps have been taken to ensure that similar errors, rare though they may be, do not reoccur.</ParaText>
+              <ParaText id="4835857">I thank hon. members for their attention.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+      <SubjectOfBusiness id="9481962">
+        <Timestamp Hr="16" Mn="15">(1615)</Timestamp>
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <SubjectOfBusinessTitle>Message from the Senate</SubjectOfBusinessTitle>
+        <SubjectOfBusinessContent>
+          <Intervention Type="Interjection" ToC="No" id="9481851">
+            <PersonSpeaking>
+              <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="4835858">I have the honour to inform the House that a message has been received from the Senate informing this House that the Senate has passed the following bills, to which the concurrence of the House is desired: Bill <Document DbId="8232682" Type="4">S-226, An Act to provide for the taking of restrictive measures in respect of foreign nationals responsible for gross violations of internationally recognized human rights and to make related amendments to the Special Economic Measures Act and the Immigration and Refugee Protection Act</Document>, Bill <Document DbId="8616168" Type="4">S-231, An Act to amend the Canada Evidence Act and the Criminal Code (protection of journalistic sources)</Document>, and Bill <Document DbId="8686309" Type="4">S-233, An Act to amend the Customs Act and the Immigration and Refugee Protection Act (presentation and reporting requirements)</Document>. </ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="4835859">It being 4:15 p.m., pursuant to order made Monday, April 3, 2017, the House stands adjourned until tomorrow at <?bk ?>10 a.m,.<?ek ?> pursuant to Standing Order <?bk ?>24(1).<?ek ?></ParaText>
+              <ParaText id="4835860">(The House adjourned at 4:15 p.m.)</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+    <Appendix>
+      <AppendixLabel>APPENDIX</AppendixLabel>
+      <AppendixTitle>
+        <Line>ADDRESS</Line>
+        <Line>of 
+
+</Line>
+        <Line>Ms. Malala Yousafzai
+
+</Line>
+        <Line>Recipient of the Nobel Peace Prize
+
+</Line>
+        <Line>to both Houses of Parliament 
+
+</Line>
+        <Line>in the
+
+ </Line>
+        <Line>House of Commons Chamber
+
+ </Line>
+        <Line>Ottawa 
+
+</Line>
+        <Line>on 
+
+Wednesday, April 12, 2017</Line>
+      </AppendixTitle>
+      <AppendixContent>
+        <ParaText id="4835473">
+          <I>Ms. Malala Yousafzai was welcomed by the Right Honourable Justin Trudeau, Prime Minister of Canada; the Honourable George Furey, Speaker of the Senate; and the Honourable Geoff Regan, Speaker of the House of Commons.</I>
+        </ParaText>
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <Intervention Type="Interjection" ToC="No" id="9481032">
+          <PersonSpeaking>
+            <Affiliation DbId="214706" Type="15">The Speaker</Affiliation>: </PersonSpeaking>
+          <Content>
+            <ParaText id="4835474">I invite the Right Hon. Prime Minister to speak.</ParaText>
+          </Content>
+        </Intervention>
+        <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+        <Intervention Type="Debate" ToC="Yes" ToCText="Mr. Trudeau" id="9481033">
+          <PersonSpeaking>
+            <Affiliation DbId="214296" Type="1">Right Hon. Justin Trudeau (Prime Minister, Lib.)</Affiliation>: </PersonSpeaking>
+          <Content>
+            <ParaText id="4835475">Honoured guests, parliamentarians, colleagues, and friends, it is a pleasure to be here today to host one of the newest and possibly bravest citizens of Canada, Malala Yousafzai. </ParaText>
+            <ParaText id="4835476">Malala, it is a privilege to welcome you to our House, and now that you are an honorary Canadian, I hope you will consider this your House too. Welcome.</ParaText>
+            <ParaText id="4835477">Malala's story is one we know well. It is both exceptional and familiar, out of this world, and sadly, commonplace. Years ago, we heard all about this bold, brave girl from Swat Valley who stood up to the Taliban, a whip-smart, politically engaged 12-year-old who was inspiring other kids to raise their voices and lead by example, a girl whose greatest want in life was to go to school, a girl who refused to be silenced. With hope, we stood in awe of her, and with horror, we watched as cowards tried to take her life. Still, as the world prayed while she recovered, we were reminded that a bullet is no match for an idea, that in the face of evil, what is right and what is good will always prevail.</ParaText>
+            <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+            <ParaText id="4835478">Malala, when you said that you harbour no ill will against your would-be assassin, you manifested a profound goodness that Canadians can identify with. </ParaText>
+            <ParaText id="4835479">Just a few months ago, a Quebec City mosque was the target of a terrorist attack. That senseless act of violence left six innocent people dead. They were husbands, fathers, sons. Even in the wake of that crime, Canadians stood united. We did not turn against one another. Neighbours did not turn their backs on each other. We did not succumb to hatred or fear.</ParaText>
+            <ParaText id="4835480">By taking positive action, as we always try to do in Canada, we told the rest of the world that we would not answer violence with violence, that we would instead answer fear and hatred with love and compassion.</ParaText>
+            <ParaText id="4835481">Malala, you are a paragon of goodness in your words and your actions, which have struck a chord with Canadians and with people around the world.</ParaText>
+            <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+            <ParaText id="4835482">Yours is a story of an ordinary girl doing extraordinary things, an everyday hero, a trailblazer and a teenager, a renegade and a reader, a fearless advocate and a girl who wants nothing more than to see more kids in classrooms. On top of that, you are impossibly humble. We Canadians are all about that. </ParaText>
+            <ParaText id="4835483">When you accepted the Nobel Peace Prize, you said, “I tell my story, not because it is unique, but because it is not.” When you spoke at the UN, you said, “I raise up my voice—not so that I can shout, but so that those without a voice can be heard.” </ParaText>
+            <ParaText id="4835483">Ladies and gentlemen, this is the true embodiment of leadership and service. We should all wish to serve so honourably in our own lifetimes.</ParaText>
+            <ParaText id="4835484">Malala, you have given light to boys and girls mired in darkness, and you have challenged women and men of all backgrounds to be better so that we may do better. One area where we must all do better is in educating our young people. We know that only through education can we achieve true peace. I say that not only as a husband, father, and community member. I, first and foremost, say that as a teacher. </ParaText>
+            <ParaText id="4835485">I was lucky enough to teach some really great kids in B.C. for five years, and they taught me that going to school is about more than just learning how to read and write. It is about challenging your world view, it is about innovation, and it is about solving problems by working together. Education has the power to change the world. It can end poverty, fight climate change, and prevent wars, but in order to achieve progress, we all have to make sure that all children, girls as well as boys, get to go to school.</ParaText>
+            <ParaText id="4835486">I could not imagine a world where my sons, Xavier and Hadrien, could enjoy the gift of learning but my daughter, Ella-Grace, could not. She, like so many other little girls, loves to learn, and she would be devastated if she had that right taken from her.</ParaText>
+            <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+            <ParaText id="4835487">It is no secret that women and girls have always had to fight, and they still have to fight, to obtain many things that men take for granted: the right to vote, the right to serve their country, the right to pay equity, and the right to decide when to start a family. Sadly, it would take me all day to give an exhaustive list. </ParaText>
+            <ParaText id="4835488">However, the success of any society depends on the full participation of women and girls, and that always begins with education. Here in Canada, we make sure that our children have the skills they need to live a full life in a rapidly changing world. As Minister of Youth and a father to young children, obviously, education is a personal priority of mine.</ParaText>
+            <ParaText id="4835489">Last month we announced funding for a new program to teach kids the basics of coding and digital skills development. We are helping more teens from low-income communities complete high school. We are investing in programs that encourage young people, girls and boys alike, to take an interest in science, technology, engineering, and math.</ParaText>
+            <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+            <ParaText id="4835490">We are building and repairing schools to ensure that every indigenous student living on-reserve receives a good education. For too long, these children have been neglected. That is unacceptable, and we must do more. </ParaText>
+            <ParaText id="4835491">For the sake of boys and girls around the world, for the sake of our future, the time to act is now.</ParaText>
+            <ParaText id="4835492">My friends, we know that progress starts as an idea rooted in conviction, brought to life by the right words, and driven into action with courage. </ParaText>
+            <ParaText id="4835493">We call on our brothers and sisters around the world to speak boldly and without fear, knowing in their hearts that the right words at the right time can make change happen.</ParaText>
+            <ParaText id="4835494">Malala, you chose hope. You chose dignity. You chose determination, and children around the world thank you for it. Today, in this country and in this chamber, we honour you.</ParaText>
+            <ParaText id="4835495">Ladies and gentlemen, dear friends, it is my great privilege to introduce to you a champion for education and a fearless new Canadian, Malala Yousafzai.</ParaText>
+          </Content>
+        </Intervention>
+        <Intervention Type="Debate" ToC="Yes" id="9481037" ToCText="Ms. Malala Yousafzai">
+          <PersonSpeaking>
+            <Affiliation DbId="232085" Type="96">Ms. Malala Yousafzai (Co-Founder of Malala Fund)</Affiliation>: </PersonSpeaking>
+          <Content>
+            <ParaText id="4835496">
+              <I> Bismillah hir rahman ir rahim</I>. In the name of God, the most merciful, the most beneficent. Good afternoon. <I>Bonjour</I>. <I>Assalaam-u-alikum</I>.</ParaText>
+            <ParaText id="4835497">
+              <Affiliation DbId="214296" Type="1">Mr. Prime Minister</Affiliation>, Madam Trudeau, Sophie, Mr. Speaker, members of the House, members of the Senate, distinguished guests, my parents, Ziauddin and Toor Pekai, and finally, the people of Canada, thank you so much for the warm welcome to your country.</ParaText>
+            <ParaText id="4835498">This is my first trip to Canada but not my first attempt. On October 22, 2014, my father and I landed at the Toronto airport, excited for a first visit to your wonderful country. Soon we learned that a man had attacked Parliament Hill, killing a Canadian soldier, wounding others, and threatening leaders and civil servants in the building where I stand today. </ParaText>
+            <ParaText id="4835499">Canadian security officials and professionals advised us to reschedule. With sorrow in our hearts, we headed back to England, promising to return to Canada one day.</ParaText>
+            <ParaText id="4835500">The man who attacked Parliament Hill called himself a Muslim, but he did not share my faith. He did not share the faith of one and a half billion Muslims living in peace around the world. He did not share our Islam, a religion of learning, compassion, and mercy.</ParaText>
+            <ParaText id="4835501">I am a Muslim and I believe that if you pick up a gun in the name of Islam and kill an innocent person, you are not Muslim anymore. You and the person who attacked Parliament Hill and all these terrorists do not share my faith. </ParaText>
+            <ParaText id="4835502">Instead, he shared the hatred of the men who attacked the Quebec City mosque in January, killing six people while they were at prayer—the same hatred as the man who killed civilians and a police officer in London three weeks ago, the same hatred as the men to killed 132 school children in Pakistan's Army Public School in Peshawar, the same hatred as the man who shot me and my two school friends. </ParaText>
+            <ParaText id="4835503">These men have tried to divide us and destroy our democracies, our freedom of religion, our right to go to school, but we and you refuse to be divided. Canadians, wherever you were born and however you worship, stand together, and nothing proves this more than your commitment to refugees.</ParaText>
+            <ParaText id="4835504">Around the world, we have heard about Canada's heroes.</ParaText>
+            <ParaText id="4835505">We heard about the members of the First United Church here in Ottawa who sponsored newlyweds Amina and Ebrahim. A few months later, the family had their first child, a little girl named Marya. The church decided to raise more money to bring Ebrahim's brother and family to Canada so Marya could grow up with her cousins.</ParaText>
+            <ParaText id="4835506">We heard about Jorge Salazar in Vancouver, who came to Canada as a child refugee, fleeing violence in Colombia. As a young adult, he is working with today's child immigrants and refugees, helping them adapt to the new culture and country.</ParaText>
+            <ParaText id="4835507">I am very proud to announce that Farah Mohamed, a refugee who fled Uganda and came to Canada as a child, is Malala Fund's new CEO. A Canadian will now lead the fight for girls' education around the world.</ParaText>
+            <ParaText id="4835508">Many people from my own country of Pakistan have found a promised land in Canada, from Maria Toorpakai Wazir, a famous squash player, to my relatives here today.</ParaText>
+            <ParaText id="4835509">Like the refugees in Canada and all around the world, I have seen fear and experienced times when I did not know if I was safe or not. I remember how my mom used to put a ladder at the back of our house so that if anything happened, we could escape. </ParaText>
+            <ParaText id="4835510">I still remember that I would read a Quranic verse, <I>Ayat al-Kursi</I>, every night to protect our family and as many people as I could. </ParaText>
+            <ParaText id="4835511">I felt fear when I went to school, thinking that someone would stop me and harm me. I would hide my books under my scarf. </ParaText>
+            <ParaText id="4835512">The sound of bombs would wake me up at night. Every morning I would hear the news that more innocent people had been killed. I saw men with big guns in the streets. </ParaText>
+            <ParaText id="4835513">There is more peace now in my home of Swat Valley, Pakistan, but families like mine, from Palestine to Venezuela, Somalia to Myanmar, Iraq to Congo, are forced to flee their homes because of violence. </ParaText>
+            <ParaText id="4835514">Your motto and your stand of “welcome to Canada” is more than a headline or a hashtag. It is the spirit of humanity that every single one of us would yearn for if our family was in crisis. I pray that you continue to open your homes and your hearts to the world's most defenceless children and families, and I hope your neighbours will follow your example.</ParaText>
+            <ParaText id="4835515">I am humbled to accept honorary citizenship of your country. While I will always be a proud Pashtun and a proud citizen of Pakistan, I am grateful to be an honorary member of your nation of heroes, though I still require a visa, but that is another discussion. </ParaText>
+            <ParaText id="4835516">I was also very happy to meet <Affiliation DbId="214296" Type="1">Prime Minister Trudeau</Affiliation> this morning. I am amazed by his embrace of refugees, his commitment to appointing Canada's first gender-balanced cabinet, and his dedication to keeping women and girls at the centre of your development strategy.</ParaText>
+            <ParaText id="4835517">We have heard so much about <Affiliation DbId="214296" Type="1">Prime Minister Trudeau</Affiliation>, but one thing has surprised me. People are always talking about how young he is. They say that he is the second-youngest prime minister in Canadian history. He does yoga. He has tattoos, and a large mole. </ParaText>
+            <ParaText id="4835518">While I was coming here, everyone was telling me to shake the Prime Minister's hand and let them know how he looks in reality. People are just so excited about my meeting <Affiliation DbId="214491" Type="2">Prime Minister Trudeau</Affiliation> that I do not think anyone cared about the honorary Canadian citizenship.</ParaText>
+            <ParaText id="4835519">While it may be true that <Affiliation DbId="214491" Type="2">Prime Minister Trudeau</Affiliation> is young and he is a young head of government, I would like to tell something to the children of Canada: you do not have to be as old as the very young <Affiliation DbId="214491" Type="2">Prime Minister Trudeau</Affiliation> to be a leader.</ParaText>
+            <ParaText id="4835520">
+              <B>Some Voices:</B> Hear, hear! </ParaText>
+            <ParaText id="4835520">
+              <B>Ms. Malala Yousafzai:</B> I am still on page 7. There is a lot left. If you do a standing ovation again, you are going to get tired. That is just to let you know there is a lot left.</ParaText>
+            <ParaText id="4835521">I want to share my story. I want to tell the children of Canada that when I was little, I used to wait to be an adult to lead, but I have learned that even a child's voice can be heard across the world. </ParaText>
+            <ParaText id="4835522">To the young women of Canada, I want to say this: step forward, raise your voices, and the next time I visit, I hope to see more of you filling these seats.</ParaText>
+            <ParaText id="4835523">To the men of Canada, be proud feminists and help women get opportunities equal to those of men. </ParaText>
+            <ParaText id="4835524">To the leaders of Canada today in this room, though you may have different politics and policies and priorities, I know each one of you is trying to respond to some of our world's most pressing problems. I have travelled the world and met many people in many countries. I have first-hand experience and I have seen many problems that we are facing today—war, economic instability, climate change, and health crises—and I can tell you that the answer is girls. </ParaText>
+            <ParaText id="4835525">Secondary education for girls can transform communities, countries, and our world.</ParaText>
+            <ParaText id="4835526">Here is what the statistics say. I am saying it for those who still do not accept education as important—there are some—but I hope they will hear this. </ParaText>
+            <ParaText id="4835527">If all girls went to school for 12 years, low- and middle-income countries would add $92 billion per year to their economies. </ParaText>
+            <ParaText id="4835528">Educated girls are less likely to marry young and contract HIV, and more likely to have healthy and educated children. </ParaText>
+            <ParaText id="4835529">The Brookings Institution called secondary education for girls as the best and most cost-effective investment against climate change. </ParaText>
+            <ParaText id="4835530">When a country gives all its children secondary education, it cuts its risk of war in half. Education is vital for the security of the world, because extremism grows alongside inequality in places where people feel they have no opportunity, no voice, no hope. </ParaText>
+            <ParaText id="4835531">When women are educated, there are more jobs for everyone. When mothers can keep their children alive and send them to school, there is hope, but around the world, 130 million girls are out of school today. They may not have read the studies and they may not know the statistics, but they understand that education is the only path to a brighter future, and they are fighting to go to school.</ParaText>
+            <ParaText id="4835532">Last summer on a trip to Kenya, I was introduced to Rahma, the bravest girl I have ever met. When Rahma was 13, her family fled Somalia and came to Dadaab, the world's largest refugee camp. She had never been inside a classroom, but she worked hard to catch up, and in a few years she graduated from primary school. </ParaText>
+            <ParaText id="4835533">At 18, Rahma was in secondary school when her parents decided to move back to Somalia. They promised she could continue her education, but when her family returned to Somalia, there were no schools for her to attend. Her father said her education was finished and that she would soon marry a man in his 50s, a man she did not know.</ParaText>
+            <ParaText id="4835534">Rahma remembered a friend from the refugee camp who had won a scholarship at a university in Canada. She borrowed a neighbour's Internet connection and contacted him through Facebook. Over the Internet, the university student in Canada sent her $70. At night, Rahma snuck out of her house, bought a bus ticket, and set out on an eight-day-long trip back to the refugee camp, the only place she knew she could go to school.</ParaText>
+            <ParaText id="4835535">Through the sustainable development goals, our nations promised every girl she would go to school for 12 years We promised that donor countries and developing countries would work together to make this dream a reality for the poorest girls in the world. I know that politicians cannot keep every promise they make, but this is the one you must honour. World leaders can no longer expect girls like Rahma to fight this battle alone. We can gain peace, grow economies, and improve our public health and the air we breathe, or we can lose another generation of girls.</ParaText>
+            <ParaText id="4835536">I stand with girls as someone who knows what it is like to flee your home and wonder if you will ever be able to go back to school. I stand with girls as someone who knows how it feels to have the right of education taken away and your dreams threatened. I know where I stand. If you stand with me, I ask you to seize every opportunity for girls' education over the next year.</ParaText>
+            <ParaText id="4835537">Dear Canada, I am asking you to lead once again.</ParaText>
+            <ParaText id="4835538">First, make girls' education a central theme of your G7 presidency next year.</ParaText>
+            <ParaText id="4835539">Second, use your influence to fill the global education funding gap. You raised billions of dollars and saved lives when you hosted the global fund replenishment in Montreal last year. Show the same leadership for education. Host the upcoming replenishment of Global Partnership for Education, bring world leaders together, and raise new funding for girls to go to school. If Canada leads, I know the world will follow.</ParaText>
+            <ParaText id="4835540">Finally, prioritize 12 years of education and schooling for refugees. Today, only a quarter of refugee children can get secondary education. We should not ask children who flee their homes to also give up their dreams. We must recognize that young refugees are future leaders on whom we all depend for peace.</ParaText>
+            <ParaText id="4835541">The world needs leadership based on serving humanity, not based on how many weapons you have. Canada can take that lead.</ParaText>
+            <ParaText id="4835542">Our world has many problems, but we do not need to look far for the solution. We already have one. She is living in a refugee camp in Jordan. She is walking five kilometres to school in Guatemala. She is sewing footballs to pay enrolment fees in India. She is every one of the girls out of school around the world today. We know what to do, but we must look inside ourselves for the will to keep our promises.</ParaText>
+            <ParaText id="4835543">Dear sisters and brothers, we have a responsibility to improve the world. When future generations read about us in their books, or on their iPads or whatever the next innovation will be, I do not want them to be shocked that 130 million girls could not go to school and we did nothing. I do not want them to be shocked that we did not stand up for child refugees as millions of families fled their homes. I do not want us to be known for failing them.</ParaText>
+            <ParaText id="4835544">Let the future generations say we were the ones who stood up. Let them say we were the first to live in a world where all girls could learn and lead without fear. Let us be the ones who bring the change we want to see.</ParaText>
+            <ParaText id="4835545">Thank you so much for listening.</ParaText>
+            <ParaText id="4835546">[<I>Applause</I>]</ParaText>
+            <ParaText id="4835547">[<I>The national anthem was sung</I>]</ParaText>
+          </Content>
+        </Intervention>
+        <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+        <Intervention Type="Debate" ToC="Yes" id="9481128" ToCText="Speaker of the Senate">
+          <PersonSpeaking>
+            <Affiliation DbId="214902" Type="96">Hon. George Furey (Speaker of the Senate)</Affiliation>: </PersonSpeaking>
+          <Content>
+            <ParaText id="4835548">Malala, Mr. Prime Minister, Madame Grégoire Trudeau, Madam Chief Justice, Excellencies, hon. senators, members of the House of Commons, distinguished guests, ladies and gentlemen.</ParaText>
+            <ParaText id="4835549">Malala, it is a great honour to welcome you here today. On behalf of all my parliamentary colleagues, I want to thank you for your inspiring speech. </ParaText>
+            <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+            <ParaText id="4835550">Thank you for your inspiring words. The message which you bring resonates around the world. It is a message that empowers people to distinguish truth from lies and right from wrong.</ParaText>
+            <ParaText id="4835551">The last time we gathered in this place was in June, when President Obama addressed us, standing where you stood today. We thanked him for his accomplishments during his eight year term, reflecting on a presidency that was soon to come to an end.</ParaText>
+            <ParaText id="4835552">Today, we are here for a different purpose. Today is not so much about the past as it is about the future.</ParaText>
+            <ParaText id="4835553">In these troubling times, it can be difficult to be optimistic. There is a great deal of fear in the world. Fear, as we all know, is a very powerful emotion. It feeds intolerance. It breeds division. As you, Malala, know too well, intolerance leads to unspeakable acts of brutality and oppression.</ParaText>
+            <ParaText id="4835554">However, the clear antidote to fear is knowledge.</ParaText>
+            <ParaText id="4835555">The pursuit of knowledge through education is an undeniable good. Education reveals that our differences are a source of strength, that ideas are exciting and enriching. Where it is allowed to flourish, education improves the lives of people everywhere. It allows women and girls to be equal to men and boys, to enable everyone to make equal contributions to make this a better world that we all live in.</ParaText>
+            <ParaText id="4835556">The recognition of education's benefits must be taught, and taught courageously, especially in a world where falsehoods are so often held out as facts.</ParaText>
+            <ParaText id="4835557">The French writer and philosopher Antoine de Saint-Exupéry once said that if you want to build a ship, do not send people to collect wood,  do not assign them jobs, do not asssign them tasks. Teach them, rather,  to long for the immensity of the sea.</ParaText>
+            <ParaText id="4835558">Your extraordinary example, Malala, teaches all of us to appreciate the value of education and long for the immensity of knowledge.</ParaText>
+            <ParaText id="4835559">Collectively, we should all strive to further education in the world, to awaken reason where it sleeps, and to help improve the suffering of the poor and the oppressed.</ParaText>
+            <ParaText id="4835560">We thank you once again, Malala, for your courage and determination in fighting for everyone, especially for the rights of girls and women to be educated in your country and around the world. While we do indeed face great challenges, your leadership shines a very bright light in an otherwise dark place.</ParaText>
+            <ParaText id="4835561">We are so proud to have you as an honorary Canadian. No matter what our age, whether we are young or old, you are an example for  us all. We all aspire to be Malala.</ParaText>
+            <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+            <ParaText id="4835562">Thank you very much.</ParaText>
+          </Content>
+        </Intervention>
+        <Intervention Type="Debate" ToC="Yes" id="9481133" ToCText="The Speaker">
+          <PersonSpeaking>
+            <Affiliation DbId="214706" Type="15">Hon. Geoff Regan</Affiliation> (Speaker of the House of Commons): </PersonSpeaking>
+          <Content>
+            <ParaText id="4835563">Malala, Prime Minister, Madame Grégoire Trudeau, Madam Chief Justice, Mr. Speaker of the Senate, my friend and classmate, Excellencies, hon. senators, members of the House of Commons, distinguished guests, ladies and gentlemen.</ParaText>
+            <ParaText id="4835564">Malala, it is my pleasure and privilege to thank you on behalf of your fellow Canadians for the very inspiring words you shared today.</ParaText>
+            <ParaText id="4835565">You have been defending the right to education, especially for girls, since age 11. It is clear that your passion for this cause has only deepened over the years.</ParaText>
+            <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+            <ParaText id="4835566">I know that you yourself have given credit for this determination to your father, Ziauddin Yousafzai, and your mother, Toor Pekai Yousafzai, both of whom nurtured your love of learning and encouraged you to pursue your dreams. As a father, I know it cannot have been easy for them to set aside a parent’s natural desire to protect their child from the dangers that are all around, and to let her follow her heart. Therefore, I would like to thank your parents, Malala, for their courage and their generosity in sharing their only daughter with the world. </ParaText>
+            <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+            <ParaText id="4835567">For many years now, you have been on a mission to promote education and peace, and you manage to strike a balance between your advocacy work and your studies.</ParaText>
+            <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+            <ParaText id="4835568">In recognition of your remarkable work in promoting and defending educational rights, you have received a number of national and international honours, including, I must say, an honorary degree from the University of King's College in my city of Halifax, Nova Scotia.</ParaText>
+            <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+            <ParaText id="4835569">You are at the dawn of a new chapter in your life, set to begin your university career. I am sure that it will be as remarkable and unique as you are.</ParaText>
+            <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+            <ParaText id="4835570">Even as you fought for the right to learn, you have fought for the same right for others. As you have spoken up for children, you have taught them to speak up for themselves and to demand what is theirs. In other words, you may still be a student, Malala, but you have also become a teacher. If you look up at the galleries of this chamber, you will see hundreds of your students.</ParaText>
+            <ParaText id="4835571">Mahatma Gandhi said that real education consists in drawing the best out of ourselves. This you have already accomplished. As you pursue your academic dreams, whatever they may be, I have no doubt that you will continue to make the world a better place. </ParaText>
+            <ParaText id="4835572">Thank you.</ParaText>
+            <ParaText id="4835573">[<I>Applause</I>]</ParaText>
+          </Content>
+        </Intervention>
+      </AppendixContent>
+    </Appendix>
+  </HansardBody>
+</Hansard>

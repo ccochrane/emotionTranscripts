@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="8195398">
+	<StartPageNumber>2079</StartPageNumber>
+	<DocumentTitle>
+		<DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
+	</DocumentTitle>
+	<ExtractedInformation>
+		<ExtractedItem Name="InstitutionDebate">House of Commons Debates</ExtractedItem>
+		<ExtractedItem Name="Volume">VOLUME 147</ExtractedItem>
+		<ExtractedItem Name="Number">NUMBER 034-A</ExtractedItem>
+		<ExtractedItem Name="Session">2nd SESSION</ExtractedItem>
+		<ExtractedItem Name="Parliament">41st PARLIAMENT</ExtractedItem>
+		<ExtractedItem Name="Date">Thursday, December 12, 2013</ExtractedItem>
+		<ExtractedItem Name="SpeakerName">Speaker: The Honourable Andrew Scheer</ExtractedItem>
+		<ExtractedItem Name="Institution">HOUSE OF COMMONS</ExtractedItem>
+		<ExtractedItem Name="Country">CANADA</ExtractedItem>
+		<ExtractedItem Name="TOCNote">(Table of Contents appears at back of this issue.)</ExtractedItem>
+		<ExtractedItem Name="HeaderTitle">COMMONS DEBATES</ExtractedItem>
+		<ExtractedItem Name="HeaderDate">December 12, 2013</ExtractedItem>
+		<ExtractedItem Name="MetaDocumentCategory">DEBATES</ExtractedItem>
+		<ExtractedItem Name="MetaTitle">Edited Hansard * Table of Contents * Number 034 (Official Version)</ExtractedItem>
+		<ExtractedItem Name="MetaTitleEn">Official Report * Table of Contents * Number 034 (Official Version)</ExtractedItem>
+		<ExtractedItem Name="MetaTitleFr">Compte rendu officiel * Table des matières * Numéro 034 (Version officielle)</ExtractedItem>
+		<ExtractedItem Name="MetaVolumeNumber">147</ExtractedItem>
+		<ExtractedItem Name="MetaNumberNumber">034</ExtractedItem>
+		<ExtractedItem Name="MetaDateNumDay">12</ExtractedItem>
+		<ExtractedItem Name="MetaDateNumMonth">12</ExtractedItem>
+		<ExtractedItem Name="MetaDateNumYear">2013</ExtractedItem>
+		<ExtractedItem Name="MetaCreationTime">2013/12/12 17:40:00</ExtractedItem>
+		<ExtractedItem Name="MetaInstitution">House of Commons</ExtractedItem>
+		<ExtractedItem Name="InstitutionDebateFr">Débats de la Chambre des communes</ExtractedItem>
+		<ExtractedItem Name="InstitutionDebateEn">House of Commons Debates</ExtractedItem>
+		<ExtractedItem Name="ParliamentNumber">41</ExtractedItem>
+		<ExtractedItem Name="SessionNumber">2</ExtractedItem>
+		<ExtractedItem Name="Suffix">A</ExtractedItem><ExtractedItem Name="InCameraNote"></ExtractedItem></ExtractedInformation>
+	<HansardBody>
+		<Intro>
+			<ParaText id="3536924">The House met at 5:40 p.m.</ParaText>
+			<Prayer>Prayers</Prayer>
+			<Timestamp Hr="17" Mn="40">(1740)</Timestamp><FloorLanguage language="EN">[<I>English</I>]</FloorLanguage><Intervention Type="Interjection" ToC="No" ToCText="The Speaker" id="8195401"><PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking><Content><ParaText id="3536925">I wish to inform the House that pursuant to Standing Order 28(4), I have recalled the House this day for the sole purpose of granting royal assent to certain bills.</ParaText></Content></Intervention>
+			<SubjectOfBusiness id="8195404"><FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage><SubjectOfBusinessTitle>Message from the Senate</SubjectOfBusinessTitle><SubjectOfBusinessContent><Intervention Type="Debate" ToC="Yes" ToCText="The Speaker" id="8195412"><PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking><Content><ParaText id="3536926">I have the honour to inform the House that a message has been received from the Senate informing this House that the Senate has passed the following bills: Bill <Document DbId="6263562" Type="3">C-7, An Act to amend the Museums Act in order to establish the Canadian Museum of History and to make consequential amendments to other Acts</Document>; Bill <Document DbId="6314588" Type="3">C-19, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2014</Document>; and Bill <Document DbId="6258538" Type="3">C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures</Document>.</ParaText></Content></Intervention>
+				</SubjectOfBusinessContent></SubjectOfBusiness>
+		</Intro>
+		<OrderOfBusiness id="8195403" Rubric="RoyalAssent"><OrderOfBusinessTitle>Royal assent</OrderOfBusinessTitle><CatchLine>Royal assent</CatchLine><SubjectOfBusiness><FloorLanguage language="EN">[<I>English</I>]</FloorLanguage><SubjectOfBusinessContent><Intervention Type="Debate" ToC="Yes" ToCText="The Speaker" id="8195420"><PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking><Content><ParaText id="3536927"> I have the honour to inform the House that a communication has been received as follows: </ParaText><ParaText id="3536928"><Quote inline="block"><QuotePara Align="Centre">The Secretary to the Governor General and Herald Chancellor</QuotePara></Quote></ParaText><ParaText id="3536929"><Quote inline="block"><QuotePara Align="Right">December 12, 2013</QuotePara></Quote></ParaText><ParaText id="3536930"><Quote inline="block"><QuotePara Align="Left" IndentFirst="1" IndentRest="1">Mr. Speaker:</QuotePara></Quote></ParaText><ParaText id="3536931"><Quote inline="block"><QuotePara Align="Left" IndentFirst="2" IndentRest="1">I have the honour to inform you that the Right Honourable David Johnston, Governor General of Canada, will proceed to the Senate Chamber today, the 12th day of December, 2013, at 5:30 p.m., for the purpose of giving Royal Assent to certain bills of law.</QuotePara></Quote></ParaText><ParaText id="3536932"><Quote inline="block"><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Yours sincerely,</QuotePara></Quote></ParaText><ParaText id="3536933"><Quote inline="block"><QuotePara Align="Centre">Stephen Wallace</QuotePara></Quote></ParaText></Content></Intervention>
+				</SubjectOfBusinessContent></SubjectOfBusiness><SubjectOfBusiness id="8195416"><Timestamp Hr="17" Mn="50">(1750)</Timestamp><SubjectOfBusinessContent><ParaText id="3536934">A message was delivered by the Usher of the Black Rod as follows: 
+</ParaText><ParaText id="3536935"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Mr. Speaker, it is the desire of His Excellency the Governor General of Canada that this honourable House do attend him immediately in the Senate chamber.</QuotePara></Quote></ParaText><ParaText id="3536936">Accordingly, the Speaker with the House went up to the Senate chamber.</ParaText><ParaText id="3536937"><I>    And being returned:</I></ParaText><Intervention Type="Debate" ToC="Yes" ToCText="The Speaker" id="8195413"><PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking><Content><ParaText id="3536938">I have the honour to inform the House that when the House did attend His Excellency the Governor General in the Senate chamber, His Excellency was pleased to give, in Her Majesty's name, the royal assent to the following bills:</ParaText><ParaText id="3536939"><Document DbId="6263562" Type="3">C-7, An Act to amend the Museums Act in order to establish the Canadian Museum of History and to make consequential amendments to other Acts</Document>—Chapter 38, 2013.</ParaText><ParaText id="3536940"><Document DbId="6314588" Type="3">C-19, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2014</Document>—Chapter 39, 2013.</ParaText><ParaText id="3536941"><Document DbId="6258538" Type="3">C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures</Document>—Chapter 40, 2013.</ParaText><ParaText id="3536942">It being 5:55 p.m., the House stands adjourned until Monday, January 27, 2014, at 11 a.m., pursuant to Standing Orders 28(2) and 24(1).</ParaText><ParaText id="3536943">(The House adjourned at 5:55 p.m.)</ParaText></Content></Intervention>
+				</SubjectOfBusinessContent></SubjectOfBusiness>
+		</OrderOfBusiness></HansardBody></Hansard>

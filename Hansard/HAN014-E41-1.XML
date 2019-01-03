@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="3944343">
+	<StartPageNumber>1117</StartPageNumber>
+	<DocumentTitle>
+		<DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
+	</DocumentTitle>
+	<ExtractedInformation>
+		<ExtractedItem Name="InstitutionDebate">House of Commons Debates</ExtractedItem>
+		<ExtractedItem Name="Volume">VOLUME 146</ExtractedItem>
+		<ExtractedItem Name="Number">NUMBER 014-A</ExtractedItem>
+		<ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+		<ExtractedItem Name="Parliament">41st PARLIAMENT</ExtractedItem>
+		<ExtractedItem Name="Date">Sunday, June 26, 2011</ExtractedItem>
+		<ExtractedItem Name="SpeakerName">Speaker: The Honourable Andrew Scheer</ExtractedItem>
+		<ExtractedItem Name="Institution">HOUSE OF COMMONS</ExtractedItem>
+		<ExtractedItem Name="Country">CANADA</ExtractedItem>
+		<ExtractedItem Name="TOCNote">(Table of Contents appears at back of this issue.)</ExtractedItem>
+		<ExtractedItem Name="HeaderTitle">COMMONS DEBATES</ExtractedItem>
+		<ExtractedItem Name="HeaderDate">June 26, 2011</ExtractedItem>
+		<ExtractedItem Name="MetaDocumentCategory">DEBATES</ExtractedItem>
+		<ExtractedItem Name="MetaTitle">Edited Hansard * Table of Contents * Number 014 (Official Version)</ExtractedItem>
+		<ExtractedItem Name="MetaTitleEn">Official Report * Table of Contents * Number 014 (Official Version)</ExtractedItem>
+		<ExtractedItem Name="MetaTitleFr">Compte rendu officiel * Table des matires * Numro 014 (Version officielle)</ExtractedItem>
+		<ExtractedItem Name="MetaVolumeNumber">146</ExtractedItem>
+		<ExtractedItem Name="MetaNumberNumber">014</ExtractedItem>
+		<ExtractedItem Name="MetaDateNumDay">26</ExtractedItem>
+		<ExtractedItem Name="MetaDateNumMonth">06</ExtractedItem>
+		<ExtractedItem Name="MetaDateNumYear">2011</ExtractedItem>
+		<ExtractedItem Name="MetaCreationTime">2011/06/26 20:30:00</ExtractedItem>
+		<ExtractedItem Name="MetaInstitution">House of Commons</ExtractedItem>
+		<ExtractedItem Name="InstitutionDebateFr">Dbats de la Chambre des communes</ExtractedItem>
+		<ExtractedItem Name="InstitutionDebateEn">House of Commons Debates</ExtractedItem>
+		<ExtractedItem Name="ParliamentNumber">41</ExtractedItem>
+		<ExtractedItem Name="SessionNumber">1</ExtractedItem>
+		<ExtractedItem Name="Suffix">A</ExtractedItem><ExtractedItem Name="InCameraNote"></ExtractedItem></ExtractedInformation>
+	<HansardBody>
+		<Intro>
+			<ParaText id="2457887">The House met at 8:30 p.m.</ParaText>
+			<Prayer>Prayers</Prayer>
+			<Timestamp Hr="20" Mn="35">(2035)</Timestamp><FloorLanguage language="EN">[<I>English</I>]</FloorLanguage><Intervention Type="Interjection" ToC="No" ToCText="The Acting Speaker (Mr. Devolin)" id="3944363"><PersonSpeaking><Affiliation DbId="171014" Type="96">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking><Content><ParaText id="2457888">I wish to inform the House that pursuant to Standing Order 28(4) I have recalled the House this day for the sole purpose of granting royal assent to certain bills.</ParaText></Content></Intervention>
+		</Intro>
+		<OrderOfBusiness id="3946143" Rubric="Other"><OrderOfBusinessTitle>Royal Assent</OrderOfBusinessTitle><CatchLine>Royal Assent</CatchLine><SubjectOfBusiness><FloorLanguage language="EN">[<I>English</I>]</FloorLanguage><SubjectOfBusinessContent><Intervention Type="Debate" ToC="Yes" ToCText="The Acting Speaker (Mr. Barry Devolin)" id="3944366"><PersonSpeaking><Affiliation DbId="171014" Type="96">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking><Content><ParaText id="2457889"> I have the honour to inform the House that a communication has been received as follows:</ParaText><ParaText id="2457890">
+								<Quote inline="block"><QuotePara Align="Centre">Government House</QuotePara></Quote></ParaText><ParaText id="2457891"><Quote inline="block"><QuotePara Align="Centre">Ottawa</QuotePara></Quote></ParaText><ParaText id="2457892"><Quote inline="block"><QuotePara Align="Right">June 26th, 2011</QuotePara></Quote></ParaText><ParaText id="2457893"><Quote inline="block"><QuotePara Align="Left" IndentFirst="1" IndentRest="1">Mr. Speaker:</QuotePara></Quote></ParaText><ParaText id="2457894"><Quote inline="block"><QuotePara Align="Left" IndentFirst="2" IndentRest="1">I have the honour to inform you that the Honourable Louise Charron, Puisne Judge of the Supreme Court of Canada, in her capacity as Deputy of the Governor General, will proceed to the Senate Chamber today, the 26th day of June, 2011, at 8:30 p.m., for the purpose of giving Royal Assent to certain bills of law.</QuotePara></Quote></ParaText><ParaText id="2457895"><Quote inline="block"><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Yours sincerely,</QuotePara></Quote></ParaText><ParaText id="2457896"><Quote inline="block"><QuotePara Align="Centre">Stephen Wallace</QuotePara></Quote>
+							</ParaText></Content></Intervention>
+				</SubjectOfBusinessContent></SubjectOfBusiness><SubjectOfBusiness id="3946179"><SubjectOfBusinessTitle>Message from the Senate</SubjectOfBusinessTitle><SubjectOfBusinessContent><Intervention Type="Debate" ToC="Yes" ToCText="The Acting Speaker (Mr. Barry Devolin)" id="3946155"><PersonSpeaking><Affiliation DbId="171014" Type="96">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking><Content><ParaText id="2457897">I have the honour to inform the House that messages have been received from the Senate informing this House that the Senate has passed the following bills:</ParaText><ParaText id="2457898"><Quote><QuotePara Align="Left" IndentRest="1" IndentFirst="2">Bill <Document DbId="5089903" Type="3">C-6, An Act to provide for the resumption and continuation of postal services;</Document></QuotePara></Quote></ParaText><ParaText id="2457899"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Bill <Document DbId="5093532" Type="3">C-8, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2012;</Document></QuotePara></Quote></ParaText><ParaText id="2457900"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Bill <Document DbId="5093559" Type="3">C-9, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2012.</Document></QuotePara></Quote></ParaText></Content></Intervention>
+				</SubjectOfBusinessContent></SubjectOfBusiness>
+			<SubjectOfBusiness id="3946167"><Timestamp Hr="20" Mn="50">(2050)</Timestamp><SubjectOfBusinessContent><ParaText id="2457901">A message was delivered by the Usher of the Black Rod as follows:
+
+</ParaText><ParaText id="2457902"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">The Honourable Deputy to the Governor General desires the immediate attendance of this honourable House in the chamber of the honourable the Senate.
+
+</QuotePara></Quote></ParaText><ParaText id="2457903">Accordingly, the Speaker with the House went up to the Senate chamber.
+
+</ParaText><ParaText id="2457904"><I>And being returned: 
+
+</I></ParaText><Intervention Type="Debate" ToC="Yes" ToCText="The Acting Speaker (Mr. Barry Devolin)" id="3944398"><PersonSpeaking><Affiliation DbId="171013" Type="92">The Acting Speaker (Mr. Barry Devolin)</Affiliation>: </PersonSpeaking><Content><ParaText id="2457905">I have the honour to inform the House that when the House did attend Her Honour, the deputy of His Excellency the Governor General in the Senate chamber, Her Honour was pleased to give, in Her Majesty's name, the royal assent to the following bills:</ParaText><ParaText id="2457906"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Bill <Document DbId="5085532" Type="3">C-3, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011</Document>--Chapter 15.</QuotePara></Quote></ParaText><ParaText id="2457907"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Bill <Document DbId="5085519" Type="3">C-2, An Act to amend the Criminal Code (mega-trials)</Document>--Chapter 16.</QuotePara></Quote></ParaText><ParaText id="2457908"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Bill <Document DbId="5089903" Type="3">C-6, An Act to provide for the resumption and continuation of postal services</Document>--Chapter 17.</QuotePara></Quote></ParaText><ParaText id="2457909"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Bill <Document DbId="5093532" Type="3">C-8, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2012</Document>--Chapter 18.</QuotePara></Quote></ParaText><ParaText id="2457910"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Bill <Document DbId="5093559" Type="3">C-9, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2012</Document>--Chapter 19.</QuotePara></Quote></ParaText><ParaText id="2457911"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="2">Bill S-1001, An Act respecting Queen's University at Kingston.</QuotePara></Quote></ParaText><ParaText id="2457912">It being 8:50 p.m., the House stands adjourned until Monday, September 19, 2011, at 11 a.m., pursuant to Standing Orders 28(2) and 24(1).</ParaText><ParaText id="2457913">(The House adjourned at 8:50 p.m.)</ParaText></Content></Intervention>
+				</SubjectOfBusinessContent></SubjectOfBusiness>
+		</OrderOfBusiness></HansardBody></Hansard>
