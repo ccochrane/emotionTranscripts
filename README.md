@@ -32,9 +32,9 @@ Abstract: The volume of machine-readable text communication about politics has i
 
 (13) fullCodingData.csv - The merged record of video and text coding decisions (from Step 12).
 
-(14) calculateCoderReliability.R - A script for calculating and graphing the intercoder consistency from the coding data (from Step 13) [TO ADD at Office]
+(14) coderReliability.R - A script for calculating and graphing the intercoder consistency from the coding data (from Step 13) 
 
-(15) coderReliability.PDF - The graph of coder reliability coefficients (from Step 14). [TO ADD AT OFFICE]
+(15) coderReliability.PDF - The graph of coder reliability coefficients (from Step 14).
 
 (16) /Hansard - The files for Hansard stored in the contemporary .xml format, which extends back to the 39th (2006) Parliament.  Scraped from www.ourcommons.ca.
 
