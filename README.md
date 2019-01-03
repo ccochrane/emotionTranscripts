@@ -36,6 +36,6 @@ Abstract: The volume of machine-readable text communication about politics has i
 
 (15) coderReliability.PDF - The graph of coder reliability coefficients (from Step 14). [TO ADD AT OFFICE]
 
-(16) /Hansard - The xml files for the entire Hansard record stored in the contemporary format, which extends back to the 39th (2006) Parliament.    
+(16) /Hansard - The files for Hansard stored in the contemporary .xml format, which extends back to the 39th (2006) Parliament.    
 
 
