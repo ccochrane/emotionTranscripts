@@ -44,6 +44,8 @@ Abstract: The volume of machine-readable text communication about politics has i
 
 (19) authorityFile.p - the pickled authorityFile in python dictionary format (from Step 18).
 
+(20) hansardParser.py - A script for parsing the .xml schema used in the Hansard files (from Step 16) at the speech level, linking each speech to its speaker and the speaker's bio (from Step 19), and storing the results in a large CSV file (which can be imported into 64-bit Excel).  
+
 
 
 
