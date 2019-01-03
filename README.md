@@ -36,6 +36,14 @@ Abstract: The volume of machine-readable text communication about politics has i
 
 (15) coderReliability.PDF - The graph of coder reliability coefficients (from Step 14). [TO ADD AT OFFICE]
 
-(16) /Hansard - The files for Hansard stored in the contemporary .xml format, which extends back to the 39th (2006) Parliament.    
+(16) /Hansard - The files for Hansard stored in the contemporary .xml format, which extends back to the 39th (2006) Parliament.  Scraped from www.ourcommons.ca.
+
+(17) createAuthorityFile.xlsx - An excel file that links the quasi-sporadic numerical MP codes used in the Hansard .xml files (from Step 16) with their actual names and biographical information (sex, visibleMinority, indigenous, date of birth, province of birth, country of birth, date elected, province of district, and the link to their full bio on the Parlinfo site). This file also generates script for storing spreadsheet data entry as a python dictionary file.
+
+(18) createAuthorityFile.py - The script produced from Step 17 for creating the authorityFile as a python dictionary file and then pickling it.  
+
+(19) authorityFile.p - the pickled authorityFile in python dictionary format (from Step 18).
+
+
 
 
