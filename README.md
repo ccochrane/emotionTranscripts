@@ -32,9 +32,9 @@ Abstract: The volume of machine-readable text communication about politics has i
 
 (13) fullCodingData.csv - The merged record of video and text coding decisions (from Step 12).
 
-(14) calculateCoderReliability.R - A script for calculating and graphing the intercoder consistency from the coding data (from Step 13) [TO ADD at Office]
+(14) coderReliability.R - A script for calculating and graphing the intercoder consistency from the coding data (from Step 13) 
 
-(15) coderReliability.PDF - The graph of coder reliability coefficients (from Step 14). [TO ADD AT OFFICE]
+(15) coderReliability.PDF - The graph of coder reliability coefficients (from Step 14).
 
 (16) /Hansard - The files for Hansard stored in the contemporary .xml format, which extends back to the 39th (2006) Parliament.  Scraped from www.ourcommons.ca.
 
@@ -43,6 +43,12 @@ Abstract: The volume of machine-readable text communication about politics has i
 (18) createAuthorityFile.py - The script produced from Step 17 for creating the authorityFile as a python dictionary file and then pickling it.  
 
 (19) authorityFile.p - the pickled authorityFile in python dictionary format (from Step 18).
+
+(20) hansardParser.py - A script for parsing the .xml schema used in the Hansard files (from Step 16) at the speech level, linking each speech to its speaker and the speaker's bio (from Step 19), and storing the results in a CSV file (which can be imported into 64-bit Excel via Data Import, but not properly opened in Excel without using data import).  
+
+(21) hansardExtractSpeeches.csv - A dataframe, with speeches along the rows, containing the speech metadata (from Step 20).
+
+
 
 
 
