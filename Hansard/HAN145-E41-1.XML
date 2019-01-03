@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="7667766">
+	<StartPageNumber>9965</StartPageNumber>
+	<DocumentTitle>
+		<DocumentName>OFFICIAL REPORT (HANSARD)</DocumentName>
+	</DocumentTitle>
+	<ExtractedInformation>
+		<ExtractedItem Name="InstitutionDebate">House of Commons Debates</ExtractedItem>
+		<ExtractedItem Name="Volume">VOLUME 146</ExtractedItem>
+		<ExtractedItem Name="Number">NUMBER 145-A</ExtractedItem>
+		<ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+		<ExtractedItem Name="Parliament">41st PARLIAMENT</ExtractedItem>
+		<ExtractedItem Name="Date">Thursday, June 28, 2012</ExtractedItem>
+		<ExtractedItem Name="SpeakerName">Speaker: The Honourable Andrew Scheer</ExtractedItem>
+		<ExtractedItem Name="Institution">HOUSE OF COMMONS</ExtractedItem>
+		<ExtractedItem Name="Country">CANADA</ExtractedItem>
+		<ExtractedItem Name="TOCNote">(Table of Contents appears at back of this issue.)</ExtractedItem>
+		<ExtractedItem Name="HeaderTitle">COMMONS DEBATES</ExtractedItem>
+		<ExtractedItem Name="HeaderDate">June 28, 2012</ExtractedItem>
+		<ExtractedItem Name="MetaDocumentCategory">DEBATES</ExtractedItem>
+		<ExtractedItem Name="MetaTitle">Edited Hansard * Table of Contents * Number 145-A (Official Version)</ExtractedItem>
+		<ExtractedItem Name="MetaTitleEn">Official Report * Table of Contents * Number 145-A (Official Version)</ExtractedItem>
+		<ExtractedItem Name="MetaTitleFr">Compte rendu officiel * Table des matières * Numéro 145-A (Version officielle)</ExtractedItem>
+		<ExtractedItem Name="MetaVolumeNumber">146</ExtractedItem>
+		<ExtractedItem Name="MetaNumberNumber">145</ExtractedItem>
+		<ExtractedItem Name="MetaDateNumDay">28</ExtractedItem>
+		<ExtractedItem Name="MetaDateNumMonth">06</ExtractedItem>
+		<ExtractedItem Name="MetaDateNumYear">2012</ExtractedItem>
+		<ExtractedItem Name="MetaCreationTime">2012/06/28 14:00:00</ExtractedItem>
+		<ExtractedItem Name="MetaInstitution">House of Commons</ExtractedItem>
+		<ExtractedItem Name="InstitutionDebateFr">Débats de la Chambre des communes</ExtractedItem>
+		<ExtractedItem Name="InstitutionDebateEn">House of Commons Debates</ExtractedItem>
+		<ExtractedItem Name="ParliamentNumber">41</ExtractedItem>
+		<ExtractedItem Name="SessionNumber">1</ExtractedItem>
+		<ExtractedItem Name="Suffix">A</ExtractedItem><ExtractedItem Name="InCameraNote"></ExtractedItem></ExtractedInformation>
+	<HansardBody>
+		<Intro>
+			<ParaText id="2962670">The House met at 2 p.m.</ParaText>
+			<Prayer>Prayers</Prayer>
+			<Timestamp Hr="14" Mn="00">(1400)</Timestamp><FloorLanguage language="EN">[<I>English</I>]</FloorLanguage><Intervention Type="Debate" ToC="No" ToCText="The Speaker" id="7667773"><PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking><Content><ParaText id="2962671">I wish to inform the House that pursuant to Standing Order 28(4), I have recalled the House this day for the sole purpose of granting royal assent to certain bills.</ParaText></Content></Intervention>
+		</Intro>
+		<OrderOfBusiness id="7667767" Rubric="RoyalAssent"><OrderOfBusinessTitle>ROYAL ASSENT</OrderOfBusinessTitle><CatchLine>Royal Assent</CatchLine><SubjectOfBusiness><FloorLanguage language="EN">[<I>English</I>]</FloorLanguage><SubjectOfBusinessContent><Intervention Type="Debate" ToC="Yes" ToCText="The Speaker" id="7667769"><PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking><Content><ParaText id="2962672"> I have the honour to inform the House that a communication has been received as follows: </ParaText><ParaText id="2962673"><Quote inline="block"><QuotePara Align="Centre">Government House</QuotePara></Quote></ParaText><ParaText id="2962674"><Quote inline="block"><QuotePara Align="Centre">Ottawa</QuotePara></Quote></ParaText><ParaText id="2962675"><Quote inline="block"><QuotePara Align="Right">June 28th, 2012</QuotePara></Quote></ParaText><ParaText id="2962676"><Quote inline="block"><QuotePara Align="Left" IndentFirst="1" IndentRest="1">Mr. Speaker:</QuotePara></Quote></ParaText><ParaText id="2962677"><Quote inline="block"><QuotePara Align="Left" IndentFirst="2" IndentRest="1">I have the honour to inform you that the Right Honourable David Johnston, Governor General of Canada, will proceed to the Senate Chamber today, the 28<Sup>th</Sup> day of June, 2012, at 2:00 p.m., for the purpose of giving Royal Assent to certain bills of law. </QuotePara></Quote></ParaText><ParaText id="2962678"><Quote inline="block"><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Yours sincerely,</QuotePara></Quote></ParaText><ParaText id="2962679"><Quote inline="block"><QuotePara Align="Centre">Stephen Wallace</QuotePara></Quote></ParaText></Content></Intervention>
+				</SubjectOfBusinessContent></SubjectOfBusiness><SubjectOfBusiness id="7667775"><SubjectOfBusinessTitle>Message from the Senate</SubjectOfBusinessTitle><SubjectOfBusinessContent><Intervention Type="Debate" ToC="Yes" ToCText="The Speaker" id="7667770"><PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking><Content><ParaText id="2962680">I have the honour to inform the House that messages have been received from the Senate informing this House that the Senate has passed the following bills:</ParaText><ParaText id="2962681"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Bill <Document DbId="5242186" Type="3">C-25, An Act relating to pooled registered pension plans and making related amendments to other Acts</Document>;</QuotePara></Quote></ParaText><ParaText id="2962682"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Bill <Document DbId="5383493" Type="3">C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act</Document>;</QuotePara></Quote></ParaText><ParaText id="2962683"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Bill <Document DbId="5137989" Type="4">C-310, An Act to amend the Criminal Code (trafficking in persons)</Document>.</QuotePara></Quote></ParaText></Content></Intervention>
+				</SubjectOfBusinessContent></SubjectOfBusiness>
+			<SubjectOfBusiness id="7667779"><SubjectOfBusinessContent><ParaText id="2962684">A message was delivered by the Usher of the Black Rod as follows:</ParaText><ParaText id="2962685"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Mr. Speaker, His Excellency the Governor General desires the immediate attendance of this honourable House in the chamber of the Senate.
+</QuotePara></Quote></ParaText><ParaText id="2962686">Accordingly, the Speaker with the House went up to the Senate chamber.</ParaText><ParaText id="2962687"><I>And being returned: 
+
+</I></ParaText><Intervention Type="Debate" ToC="Yes" ToCText="The Speaker" id="7667778"><PersonSpeaking><Affiliation DbId="170958" Type="15">The Speaker</Affiliation>: </PersonSpeaking><Content><ParaText id="2962688">I have the honour to inform the House that when the House did attend His Excellency the Governor General in the Senate chamber, His Excellency was pleased to give, in Her Majesty's name, the royal assent to the following bills:</ParaText><ParaText id="2962689"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Bill <Document DbId="5254650" Type="3">C-26, An Act to amend the Criminal Code (citizen's arrest and the defences of property and persons)</Document>—Chapter 9, 2012.</QuotePara></Quote></ParaText><ParaText id="2962690"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Bill <Document DbId="5634778" Type="3">C-40, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2013</Document>—Chapter 10, 2012.</QuotePara></Quote></ParaText><ParaText id="2962691"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Bill <Document DbId="5634792" Type="3">C-41, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2013</Document>—Chapter 11, 2012. </QuotePara></Quote></ParaText><ParaText id="2962692"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Bill <Document DbId="5130534" Type="4">C-288, An Act respecting the National Flag of Canada</Document>—Chapter 12, 2012.</QuotePara></Quote>
+							</ParaText><ParaText id="2962693"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Bill <Document DbId="5120448" Type="4">C-278, An Act respecting a day to increase public awareness about epilepsy</Document>—Chapter 13, 2012.</QuotePara></Quote></ParaText><ParaText id="2962694"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Bill <Document DbId="5138597" Type="4">C-311, An Act to amend the Importation of Intoxicating Liquors Act (interprovincial importation of wine for personal use)</Document>—Chapter 14, 2012. </QuotePara></Quote></ParaText><ParaText id="2962695"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Bill <Document DbId="5137989" Type="4">C-310, An Act to amend the Criminal Code (trafficking in persons)</Document>—Chapter 15, 2012.</QuotePara></Quote></ParaText><ParaText id="2962696"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Bill <Document DbId="5242186" Type="3">C-25, An Act relating to pooled registered pension plans and making related amendments to other Acts</Document>—Chapter 16, 2012.</QuotePara></Quote>
+							</ParaText><ParaText id="2962697"><Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="1">Bill <Document DbId="5383493" Type="3">C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act</Document>—Chapter 17, 2012.</QuotePara></Quote></ParaText><ParaText id="2962698">It being 2:15 p.m., the House stands adjourned until Monday, September 17, 2012, at <?bk?>11 a.m.,<?ek?> pursuant to Standing Orders <?bk?>28(2)<?ek?> and <?bk?>24(1).<?ek?></ParaText></Content></Intervention>
+				</SubjectOfBusinessContent></SubjectOfBusiness>
+		</OrderOfBusiness></HansardBody></Hansard>

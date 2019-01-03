@@ -30,6 +30,12 @@ Abstract: The volume of machine-readable text communication about politics has i
 
 (12) mergeTextVideoCoding.py - A script for mergint the video coding data (from Step 8) and the text coding data (from Step 11).
 
-(13) fullCodingData.cscv - The merged record of video and text coding decisions (from Step 12).
+(13) fullCodingData.csv - The merged record of video and text coding decisions (from Step 12).
+
+(14) calculateCoderReliability.R - A script for calculating and graphing the intercoder consistency from the coding data (from Step 13) [TO ADD at Office]
+
+(15) coderReliability.PDF - The graph of coder reliability coefficients (from Step 14). [TO ADD AT OFFICE]
+
+(16) hansard
 
 
