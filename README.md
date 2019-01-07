@@ -28,7 +28,7 @@ Abstract: The volume of machine-readable text communication about politics has i
 
 (11) textCoderAverages.csv - The record of text coding decisions (from Step 10), which captures, for each text coder and video, the first and second score that the coder assigned for activation and sentiment, as well as the averages of their first two scores for both dimensions. Rows are videos.  Columns are: t1Act1, t1Act2, t1ActAvg, t1Sent1, t1Sent2, t1SentAvg, t2Act1 ... t3SentAct. 
 
-(12) mergeTextVideoCoding.py - A script for mergint the video coding data (from Step 8) and the text coding data (from Step 11).
+(12) mergeTextVideoCoding.py - A script for merging the video coding data (from Step 8) and the text coding data (from Step 11).
 
 (13) fullCodingData.csv - The merged record of video and text coding decisions (from Step 12).
 
@@ -47,6 +47,12 @@ Abstract: The volume of machine-readable text communication about politics has i
 (20) hansardParser.py - A script for parsing the .xml schema used in the Hansard files (from Step 16) at the speech level, linking each speech to its speaker and the speaker's bio (from Step 19), and storing the results in a CSV file (which can be imported into 64-bit Excel via Data Import, but not properly opened in Excel without using data import). Output compressed to ~375MB and available at https://www.dropbox.com/s/4xzw3rscu7x7xn3/hansardExtractedSpeechesFull.csv.zip?dl=0 (hansardExtractedSpeechesFull.csv).
 
 (21) word2vecTrain.py - A script for training a word2vec model on the parsed speeches from Hansard (from Step 20).
+
+(22) word2vecRun.py - A script for running the w2v model trained on Hansard (from Step 21) and applying it to the Hansard
+transcripts of the video snippets (from Step 2).  
+
+(23) w2vScores.csv - A csv file linking the transcripts of the video snippets (from Step 2) to the sentiment scores generated
+using the word2vec model (from Step 22).  
 
 
 
