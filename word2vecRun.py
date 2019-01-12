@@ -176,7 +176,7 @@ def sentence_to_wordlist(sentence, remove_stopwords=False):
 
 #Import Data re: transcripts of video snippets
 
-gitHub = 'https://raw.githubusercontent.com/ccochrane/emotionParliament/addWord2Vec/hansardExtractedVideoTranscripts.csv'
+gitHub = 'https://raw.githubusercontent.com/ccochrane/emotionParliament/master/hansardExtractedVideoTranscripts.csv'
 hansardVideos = pd.read_csv(gitHub, encoding='utf-8')
 
 df = pd.DataFrame(columns=['Label', 'Date' 'ID_main', 'youTube',
