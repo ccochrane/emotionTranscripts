@@ -54,6 +54,10 @@ transcripts of the video snippets (from Step 2).
 (23) w2vScores.csv - A csv file linking the transcripts of the video snippets (from Step 2) to the sentiment scores generated
 using the word2vec model (from Step 22).  
 
+(24) applySentimentR.R - A script for applying popular sentiment dictionaries in R to the extracted Video Transcripts (from Step 2). Dictionaries: Lexicoder, Sentiwordnet, Jockers-Rinker, HuLiu.  
+
+(25) HansardExtractedVideoTranscripts_RSentiment.tsv - A tsv file of the sentiment scores produced in Step 24.  
+
 
 
 
