@@ -44,7 +44,7 @@ Abstract: The volume of machine-readable text communication about politics has i
 
 (19) authorityFile.p - the pickled authorityFile in python dictionary format (from Step 18).
 
-(20) hansardParser.py - [Requires Windows] A script for parsing the .xml schema used in the Hansard files (from Step 16) at the speech level, linking each speech to its speaker and the speaker's bio (from Step 19), and storing the results in a CSV file (which can be imported into 64-bit Excel via Data Import, but not properly opened in Excel without using data import). Available at https://www.dropbox.com/s/4xzw3rscu7x7xn3/hansardExtractedSpeechesFull.csv.zip?dl=0 (hansardExtractedSpeechesFull.csv, compressed to ~375MB). Requires Windows b/c Pandas not cooperating with Mac handling of the large CSV file.  
+(20) hansardParser.py - [Requires Windows] A script for parsing the .xml schema used in the Hansard files (from Step 16) at the speech level, linking each speech to its speaker and the speaker's bio (from Step 19), and storing the results in a CSV file (which can be imported into 64-bit Excel via Data Import, but not properly opened in Excel without using data import). Available at https://www.dropbox.com/s/4xzw3rscu7x7xn3/hansardExtractedSpeechesFull.csv.zip?dl=0 (hansardExtractedSpeechesFull.csv, compressed to ~375MB, tab separated). Requires Windows b/c Pandas not cooperating with Mac handling of the large CSV file.  
 
 (21) word2vecTrain.py - [Requires Windows] A script for training a word2vec model on the parsed speeches from Hansard (from Step 20).
 
