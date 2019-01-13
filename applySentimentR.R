@@ -88,17 +88,17 @@ newData <- lexicode()
 
 
 data_sentiment <- newData %>%
-  mutate(sentences = get_sentences(as.character(english))) %>%
-  mutate(sentiment_jockers_rinker = general_rescale(sentiment_by(sentences, by=NULL)$ave_sentiment)) %>%
-  mutate(sentiment_sentiwordnet = general_rescale(sentiment_by(sentences, by=NULL, polarity_dt = hash_sentiment_sentiword)$ave_sentiment)) %>%
-  mutate(sentiment_huliu = general_rescale(sentiment_by(sentences, by=NULL, polarity_dt = hash_sentiment_huliu)$ave_sentiment))                     
-  sentences <- newData %>%
+  mutate(sentiment_jockers_rinker = general_rescale(sentiment_by(english, by=NULL)$ave_sentiment)) %>%
+  mutate(sentiment_sentiwordnet = general_rescale(sentiment_by(english, by=NULL, polarity_dt = hash_sentiment_sentiword)$ave_sentiment)) %>%
+  mutate(sentiment_huliu = general_rescale(sentiment_by(english, by=NULL, polarity_dt = hash_sentiment_huliu)$ave_sentiment))                     
+  english <- newData %>%
   group_by(Label) %>%
   mutate(linenumber = row_number())
          
 
   
 ### Export results to csv
-write.table(data_sentiment, "hansardExtractedVideoTranscripts_RSentiment.tsv", sep="\t", row.names=FALSE, col.names=TRUE)  
-  
+write.table(data_sentiment, "hansardExtractedVideoTranscripts_RSentiment.csv", sep=",", row.names=FALSE, col.names=TRUE)  
+
+print("Ignoring Warning Messages b/c get_sentences creating csv column breaks within the sentences it returns.")  
   
