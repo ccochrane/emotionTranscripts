@@ -57,9 +57,9 @@ using the word2vec model (from Step 22).
 
 (25) HansardExtractedVideoTranscripts_RSentiment.csv - A csv file of the sentiment scores produced in Step 24.  
 
-(26) applySVMFastTextVader.py - A script that trains Support Vector Machines and FastText on the IMDB movie review and Stanford handcoded tweet databases, and applies these models to classify the sentiment of the Hansard transcripts of the video snippets (from Step 2).  This script also applies the Vader and LIWC sentiment dictionaries.  The training data and models are available at https://www.dropbox.com/sh/u91njzwcuvdu8oa/AABkl2vUJRUNEq4WEGSCBql_a?dl=0 (~1.5GB combined).
+(26) applySVMFastTextVader.py - A script that trains Support Vector Machines and FastText on the IMDB movie review and Stanford handcoded tweet databases, and applies these models to classify the sentiment of the Hansard transcripts of the video snippets (from Step 2).  This script also applies to the transcripts of these snippets the Valence Aware Dictionary and Sentiment Reasoner (VADER - https://github.com/cjhutto/vaderSentiment) and LIWC (https://liwc.wpengine.com/) sentiment dictionaries.  The training data and models are available at https://www.dropbox.com/sh/u91njzwcuvdu8oa/AABkl2vUJRUNEq4WEGSCBql_a?dl=0 (~1.5GB combined).
 
-(27) hansardExtractedVideoTranscripts_SVMFastTextVader.csv - The csv file of the sentiment scores produced in Step 26.
+(27) hansardExtractedVideoTranscripts_SVMFastTextVader.csv - The csv file of the sentiment scores/classifications produced in Step 26.
 
 
 
