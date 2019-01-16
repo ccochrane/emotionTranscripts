@@ -48,8 +48,7 @@ Abstract: The volume of machine-readable text communication about politics has i
 
 (21) word2vecTrain.py - [Requires Windows] A script for training a word2vec model on the parsed speeches from Hansard (from Step 20).
 
-(22) word2vecRun.py - A script for running the w2v model trained on Hansard (from Step 21) and applying it to the Hansard
-transcripts of the video snippets (from Step 2).  
+(22) word2vecRun.py - [Requires Windows] A script for running the w2v model trained on Hansard (from Step 21) and applying it to the Hansard transcripts of the video snippets (from Step 2).  
 
 (23) w2vScores.csv - A csv file linking the transcripts of the video snippets (from Step 2) to the sentiment scores generated
 using the word2vec model (from Step 22).  
