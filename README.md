@@ -55,14 +55,21 @@ using the word2vec model (from Step 22).
 
 (24) applySentimentR.R - A script for applying popular sentiment dictionaries in R to the extracted Video Transcripts (from Step 2). Dictionaries: Lexicoder, Sentiwordnet, Jockers-Rinker, HuLiu.  
 
+(24.B) applySentimentR_ccED.R - A script for checking performance of Lexicoder with paragraph context.
+
 (25) HansardExtractedVideoTranscripts_RSentiment.csv - A csv file of the sentiment scores produced in Step 24. 
 
 (26) applySVMFastTextVader.py - A script that trains Support Vector Machines and FastText on a training subset of the IMDB movie review (https://www.kaggle.com/utathya/imdb-review-dataset) and Stanford handcoded tweet (https://snap.stanford.edu/data/twitter7.html) databases, and applies these models to a testing subset of each corpora. The script applies the models to classify the sentiment of the Hansard transcripts of the video snippets (from Step 2). The  script also scores the sentiment of these snippets using the Valence Aware Dictionary and Sentiment Reasoner (VADER - https://github.com/cjhutto/vaderSentiment) and LIWC (https://liwc.wpengine.com/) sentiment dictionaries. The training data and models are available at https://www.dropbox.com/sh/u91njzwcuvdu8oa/AABkl2vUJRUNEq4WEGSCBql_a?dl=0 (~1.5GB combined).
 
 (27) hansardExtractedVideoTranscripts_SVMFastTextVader.csv - The csv file of the sentiment scores/classifications produced in Step 26.
 
+(28) comparingEmbeddings.py - A script for comparing the performance of word2vec using different seed words and corpora. Produces seperate CSV for each comparison.
 
+(29) Word2vec_iterative_corpus_reduction.ipynb - A Jupyter lab file for excracting random segments of the full corpus--reducing its size--and then training word embeddings on each derivative corpora.  
 
+(30) w2vecSensitivity.R - An R file for comparing the results of the models generated from steps 28 and 29 above for predcting human judgments.
+
+(31) emotionParliament.ipynb - A Jupyter lab file implementing the project workflow.  
 
 
 
